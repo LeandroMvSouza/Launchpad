@@ -35,21 +35,23 @@ Esboço:
 
 ![alt text](./imagens/diagrama-esboço.png)
 
-## Capítulo 2: Envolvimento dos Atores
-
-### Papéis e Responsabilidades
-- Identificação e descrição das diferentes figuras envolvidas
-
-## Capítulo 3: Estabelecendo o Alicerce
+## Capítulo 2: Estabelecendo o Alicerce
 
 ### Fundamentação
 - "Knowledge Base"
 
-### Filtro de Informações
-- Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior.
+Antes de se iniciar a execução do processo de Onboarding, é importante que as seguintes perguntas sejam respondidas, mesmo que parcialmente. Seu objetivo é tornar explícito e documentado o contexto no qual o time está inserido, tanto para quem planeja a socialização organizacional quanto para quem fará parte do processo. As respostas obtidas devem guiar a tomada de decisões ... pois ... .
 
-### Plano de Ação
-- Desenvolvimento e execução de um plano de ação eficaz.
+Esboço/Modelo para contextualização (as perguntas devem convesar/estar relacionadas aos 4 pilares de execução propostos - integração; socialização; cultura; treinamento. procure tornar isso explícito):
+- As a team whose main area of focus is X, we strive to accomplish A, B and C. These objectives derive value to the business by ... , which is in line with the organization strategic objectives ... . We strive to achieve this taking into consideration key company values 1,2 and 3. Our core beliefes are that ... . 
+
+### Filtro de Informações
+- Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior. Bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. É importante que a experiência de onboarding seja localizada, idealmente apresentando ao novo contribuidor uma parte específica do todo a qual ele terá maiores chances de trabalhar nas etapas iniciais de seu trabalho.
+
+## Capítulo 3: Envolvimento dos Atores
+
+### Papéis e Responsabilidades
+- Identificação e descrição das diferentes figuras envolvidas no processo, assim como suas respectivas responsabilidades.
 
 ## Capítulo 4: Execução
 
