@@ -31,6 +31,14 @@ Porém, esses benefícios pressupôem não somente estabelecer uma base de conhe
 ### Visualização do Processo
 - Overview do processo, com auxílio de um diagrama do todo.
 
+#### 3 dimensões do Onboarding propostas:
+- Integração
+  - Objetivos - retenção, valorização, apoio. Inclui a dimensão de socialização.
+- Cultura
+  - Explicitação e execução de valores chave como forma de gerar coesão e propósito nos times.
+- Imersão no domínio
+  - Entendimento do negócio e realização de demandas reais como forma de auxiliar com - eficácia, geração de valor, produtividade. Ler https://engsoftmoderna.info/cap2.html 
+
 Esboço:
 
 ![alt text](./imagens/diagrama-esboço.png)
@@ -38,12 +46,28 @@ Esboço:
 ## Capítulo 2: Estabelecendo o Alicerce
 
 ### Fundamentação
-- "Knowledge Base"
 
-Antes de se iniciar a execução do processo de Onboarding, é importante que as seguintes perguntas sejam respondidas, mesmo que parcialmente. Seu objetivo é tornar explícito e documentado o contexto no qual o time está inserido, tanto para quem planeja a socialização organizacional quanto para quem fará parte do processo. As respostas obtidas devem guiar a tomada de decisões ... pois ... .
+É importante que se entenda o cenário no qual uma equipe atua antes de se iniciar a execução do processo de Onboarding, já que é este meio que delimita o que é relevante para o sucesso do time e, consequentemente, a tomada de decisões e delimitação de metas para a Socialização Organizacional. As necessidades de um time focado no design de interfaces web interativas são diferentes das de um time focado na análise de dados. Enquanto o primeiro tem como prioridades a criação de layouts responsivos e a otimização da experiência do usuário, o segundo tem como foco a transformação de dados brutos em informações e visualizações relevantes à tomada de decisões de negócio.
 
-Esboço/Modelo para contextualização (as perguntas devem convesar/estar relacionadas aos 4 pilares de execução propostos - integração; socialização; cultura; treinamento. procure tornar isso explícito):
-- As a team whose main area of focus is X, we strive to accomplish A, B and C. These objectives derive value to the business by ... , which is in line with the organization strategic objectives ... . We strive to achieve this taking into consideration key company values 1,2 and 3. Our core beliefes are that ... . 
+Dessa forma, é importante que se torne explícito, além de documentado, a conjuntura na qual um time está inserido. Para auxiliar nesse processo, propõe-se como exercício inicial de delimitação de escopo e exploração de contexto a resposta do seguinte modelo de perguntas, mesmo que de forma parcial:
+
+1. Como um time de desenvolvimento de software, nossa área de foco é "...". Atuamnos na "..." .
+2. Nesse contexto, temos como objetivos "..." .
+3. Esses objetivos agregam valor ao negócio pois "...", o que está alinhado com os seguintes objetivos estratégicos da organização "... " .
+4. Nos esforçamos para alcançá-los levando em consideração os valores-chave da empresa "..." .
+5. Como um time, nossas crenças fundamentais são que "..." .
+
+As respostas das perguntas 1, 2 e 3 estão relacionadas às dimensões de "Integração" e "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
+
+A seguir expõe-se um exemplo de resposta baseado nesse modelo:
+
+- Como um time de desenvolvimento de software, nossa área de foco é **Front-end**. Atuamos na **criação e manutenção de interfaces web focadas em e-commerce, baseado no design system desenvolvido pela empresa**. 
+- Nesse contexto, temos como objetivos **aprimorar a usabilidade, acessibilidade e experiência de utilização desses sistemas, garantindo consistência visual e funcional com os padrões de design estabelecidos**.
+- Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso esta alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**. 
+- Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
+- Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
+
+[Seria necessário outro exemplo? Talvez um mais simples?]
 
 ### Filtro de Informações
 - Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior. Bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. É importante que a experiência de onboarding seja localizada, idealmente apresentando ao novo contribuidor uma parte específica do todo a qual ele terá maiores chances de trabalhar nas etapas iniciais de seu trabalho.
@@ -61,13 +85,10 @@ Esboço/Modelo para contextualização (as perguntas devem convesar/estar relaci
 #### Integração
 Objetivos - retenção; valorização
 
-#### Socialização
-Objetivos - Inclusão; engajamento
-
 #### Cultura
 Objetivos - Coesão; propósito
 
-#### Treinamento
+#### Imersão no domínio
 Objetivos - Eficácia; redução do tempo para produtividade
 
 ## Capítulo 5: Iteração e Melhoria Contínua
