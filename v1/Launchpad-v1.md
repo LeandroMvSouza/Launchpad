@@ -28,18 +28,38 @@ O processo de Onboarding, também conhecido como Socialização Organizacional, 
 
 Porém, esses benefícios pressupôem não somente estabelecer uma base de conhecimento robusta com identificação prévia de metas relevantes ao contexto do time, como também a elaboração de uma estrutura de execução e reiteração que faça pleno uso desses recursos.
 
-### Visualização do Processo
-- Overview do processo, com auxílio de um diagrama do todo.
+### Dimensões do Onboarding
 
-#### 3 dimensões do Onboarding propostas:
-- Integração
-  - Objetivos - retenção, valorização, apoio. Inclui a dimensão de socialização.
-- Cultura
-  - Explicitação e execução de valores chave como forma de gerar coesão e propósito nos times.
-- Imersão no domínio
-  - Entendimento do negócio e realização de demandas reais como forma de auxiliar com - eficácia, geração de valor, produtividade. Ler https://engsoftmoderna.info/cap2.html 
+Como forma de facilitar a visualização geral do processo, o Launchpad divide o Onboarding em três dimensões:
+- Integração; 
+- Cultura;
+- Imersão no Domínio.
 
-Esboço:
+#### **Integração:**
+
+- Objetivos - retenção, valorização, apoio. Inclui a dimensão de socialização.
+
+Pode ser entendida como o conjunto de passos que visam promover a rápida e eficaz inserção dos novos colaboradores na organização. Este processo vai além da simples ambientação física, envolvendo também a socialização do indivíduo na cultura organizacional, compartilhamento de informações essenciais sobre a empresa, suas práticas e valores, bem como estabelecimento de vínculos interpessoais. Através da integração, os novos membros obtêm o suporte necessário para se adaptarem ao novo ambiente de trabalho, compreenderem suas funções e responsabilidades, e se sentirem parte integrante da equipe.
+
+#### **Cultura:**
+
+Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[cite]](schein1990organizationa). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupôe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[cite]](motta2002cultura).
+
+Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este: 
+- lida com a integridade dos dados financeiros de seus clientes; 
+- assegura a continuidade de operações bancárias sem interrupções ou falhas. 
+
+Ao longo do tempo, ao promover a qualidade do código a equipe percebeu uma redução de bugs, assim como maior estabilidade do sistema. Através de práticas como revisões de código regulares e testes automatizados, atos estes ativamente encorajados pela liderança do time, o apreço pela qualidade se tornou um valor essencial da equipe.
+
+Uma cultura bem estabelecida torna explícito ao novo funcionário a identidade do grupo - o conjunto de crenças e visão de futuro que desejam promover. Através da assimilação dessa identidade, novos colaboradores são capazes melhor se alinhar com as expectativas organizacionais, demonstrando maior satisfação no trabalho, engajamento, comprometimento e senso de pertencimento. Dessa forma, a cultura se torna uma ferramenta poderosa na formação de uma equipe coesa e no estabelecimento e adesão de uma identidade compartilhada.
+
+#### **Imersão no Domínio:**
+
+- Entendimento do negócio e realização de demandas reais como forma de auxiliar com - eficácia, geração de valor, produtividade. Ler https://engsoftmoderna.info/cap2.html 
+
+#### **Diagrama das Dimensões:**
+
+- Esboço
 
 ![alt text](./imagens/diagrama-esboço.png)
 
@@ -51,21 +71,21 @@ Esboço:
 
 Dessa forma, é importante que se torne explícito, além de documentado, a conjuntura na qual um time está inserido. Para auxiliar nesse processo, propõe-se como exercício inicial de delimitação de escopo e exploração de contexto a resposta do seguinte modelo de perguntas, mesmo que de forma parcial:
 
-1. Como um time de desenvolvimento de software, nossa área de foco é "...". Atuamnos na "..." .
+1. Como um time de desenvolvimento de software, nossa área de foco é "...". Atuamos na "..." .
 2. Nesse contexto, temos como objetivos "..." .
 3. Esses objetivos agregam valor ao negócio pois "...", o que está alinhado com os seguintes objetivos estratégicos da organização "... " .
 4. Nos esforçamos para alcançá-los levando em consideração os valores-chave da empresa "..." .
 5. Como um time, nossas crenças fundamentais são que "..." .
 
-As respostas das perguntas 1, 2 e 3 estão relacionadas às dimensões de "Integração" e "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
-
 A seguir expõe-se um exemplo de resposta baseado nesse modelo:
 
-- Como um time de desenvolvimento de software, nossa área de foco é **Front-end**. Atuamos na **criação e manutenção de interfaces web focadas em e-commerce, baseado no design system desenvolvido pela empresa**. 
-- Nesse contexto, temos como objetivos **aprimorar a usabilidade, acessibilidade e experiência de utilização desses sistemas, garantindo consistência visual e funcional com os padrões de design estabelecidos**.
-- Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso esta alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**. 
-- Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
-- Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
+1. Como um time de desenvolvimento de software, nossa área de foco é **Front-end**. Atuamos na **criação e manutenção de interfaces web focadas em e-commerce, baseado no design system desenvolvido pela empresa**. 
+2. Nesse contexto, temos como objetivos **aprimorar a usabilidade, acessibilidade e experiência de utilização desses sistemas, garantindo consistência visual e funcional com os padrões de design estabelecidos**.
+3. Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso esta alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**. 
+4. Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
+5. Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
+
+As respostas das perguntas 1, 2 e 3 estão relacionadas às dimensões de "Integração" e "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
 
 [Seria necessário outro exemplo? Talvez um mais simples?]
 
