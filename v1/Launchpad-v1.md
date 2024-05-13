@@ -31,9 +31,9 @@ Porém, esses benefícios pressupôem não somente estabelecer uma base de conhe
 ### Dimensões do Onboarding
 
 Como forma de facilitar a visualização geral do processo, o Launchpad divide o Onboarding em três dimensões:
-- Integração; 
-- Cultura;
-- Imersão no Domínio.
+- [Integração](#integração); 
+- [Cultura](#cultura);
+- [Imersão no Domínio](#imersão-no-domínio).
 
 #### **Integração:**
 
@@ -43,7 +43,7 @@ Pode ser entendida como o conjunto de passos que visam promover a rápida e efic
 
 #### **Cultura:**
 
-Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[cite]](schein1990organizationa). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupôe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[cite]](motta2002cultura).
+Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[cite]](#schein1990organizational). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupôe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[cite]](motta2002cultura).
 
 Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este: 
 - lida com a integridade dos dados financeiros de seus clientes; 
@@ -118,3 +118,8 @@ Objetivos - Eficácia; redução do tempo para produtividade
 
 ## Conclusão
 - Apanhado geral, considerações finais.
+
+## Referências
+
+- Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
+- Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
