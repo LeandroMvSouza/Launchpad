@@ -37,9 +37,15 @@ Como forma de facilitar a visualização geral do processo, o Launchpad divide o
 
 #### **Integração:**
 
-- Objetivos - retenção, valorização, apoio. Inclui a dimensão de socialização.
+Pode ser entendida como o conjunto de passos que visam promover a rápida e eficaz inserção dos novos colaboradores na organização. Este processo vai além da simples ambientação física, envolvendo também a socialização do indivíduo na cultura organizacional, compartilhamento de informações essenciais sobre a empresa, suas práticas e valores, bem como estabelecimento de vínculos interpessoais. Através da integração, os novos membros obtêm o suporte necessário para se adaptarem ao novo ambiente de trabalho, compreenderem suas funções e responsabilidades.
 
-Pode ser entendida como o conjunto de passos que visam promover a rápida e eficaz inserção dos novos colaboradores na organização. Este processo vai além da simples ambientação física, envolvendo também a socialização do indivíduo na cultura organizacional, compartilhamento de informações essenciais sobre a empresa, suas práticas e valores, bem como estabelecimento de vínculos interpessoais. Através da integração, os novos membros obtêm o suporte necessário para se adaptarem ao novo ambiente de trabalho, compreenderem suas funções e responsabilidades, e se sentirem parte integrante da equipe.
+Como exemplos de passos relacionados à integração, cita-se:
+
+1. **Sessões de Boas Vindas:** Momentos focados em introduzir novos colaboradores ao contexto do time, seus valores, objetivos. Visa fornecer informações claras sobre as responsabilidades e expectativas acerca da atuação desses indivíduos. Tais sessões tendem a ter uma estrutura fixa e pré-elaborada.
+2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida.
+2. **Mentoria:** Envolve designar um mentor experiente para novos colaboradores. Esse funcionário terá a função de guiar, esclarecer dúvidas e compartilhar conhecimento.
+4. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas na capacitação do novo colaborador quanto às tecnologias e especificidades técnicas do time. Exemplos incluem: Bootcamps; Workshops em ferramentas e frameworks utilizados pelo time; sessões de hands-on simulando a resolução de demandas do projeto. 
+5. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
 
 #### **Cultura:**
 
