@@ -35,7 +35,7 @@ Como forma de facilitar a visualização geral do processo, o Launchpad divide o
 - [Cultura](#cultura);
 - [Imersão no Domínio](#imersão-no-domínio).
 
-No que tange a duração, o Launchpad define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Para integrar alguém em uma equipe de desenvolvimento de software, sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos de um time. Por exemplo, para uma equipe responsável pela manutenção e melhorias num serviço de gerenciamento de tarefas internas da empresa, na qual o escopo de trabalho é bem definido, um plano de Onboarding de 4 semanas pode ser a melhor opção. Já para outra equipe responsável pelo desenvolvimento e manutenção de uma plataforma de e-commerce complexa e de grande escala, que atende a milhões de usuários, um plano de Onboarding mais extenso, de 12 semanas, pode ser a melhor opção devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
+No que tange a duração, o Launchpad define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos do time. Por exemplo - para uma equipe responsável pela manutenção e melhoria de um serviço de gerenciamento de tarefas, na qual o escopo de trabalho é bem definido e interno à empresa, um plano de 4 semanas pode ser uma boa opção. Já para outra equipe que lida com uma plataforma de e-commerce complexa e de grande escala, um plano de Onboarding mais extenso, de 12 semanas, pode ser mais aconselhável devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
 
 #### **Integração:**
 
@@ -44,9 +44,8 @@ Pode ser entendida como o conjunto de passos que visam promover a rápida e efic
 Como exemplos de passos relacionados à integração, cita-se:
 
 1. **Sessões de Boas Vindas:** Momentos focados em introduzir novos colaboradores ao contexto do time, seus valores, objetivos. Visa fornecer informações claras sobre as responsabilidades e expectativas acerca da atuação desses indivíduos. Tais sessões tendem a ter uma estrutura fixa e pré-elaborada.
-2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida.
-3. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas na capacitação do novo colaborador quanto às tecnologias e especificidades técnicas do time. Exemplos incluem: Bootcamps; Workshops em ferramentas e frameworks utilizados pelo time; sessões de hands-on simulando a resolução de demandas do projeto. 
-4. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
+2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida. 
+3. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
 
 No que tange a escopo e tempo, entre as três dimensões do Onboarding, Integração é a única que deve ter uma janela de tempo de execução mais estrita. Seu foco é proporcionar uma ótima primeira impressão, uma introdução do novo membro à equipe e seu escopo de trabalho.
 
@@ -66,9 +65,22 @@ Quanto à tempo e escopo, Cultura é uma dimensão que deve ser exercida continu
 
 #### **Imersão no Domínio:**
 
-- Entendimento do negócio e realização de demandas reais como forma de auxiliar com - eficácia, geração de valor, produtividade. Ler https://engsoftmoderna.info/cap2.html 
+<!--
+Ler https://engsoftmoderna.info/cap2.html
+-->
 
-1. **Mentoria:** Envolve designar um mentor experiente para novos colaboradores. Esse funcionário terá a função de guiar, esclarecer dúvidas e compartilhar conhecimento.
+"Domínio de uma aplicação" pode ser entendido como o conjunto de regras de negócio, problemas, processos e conceitos que uma aplicação é projetada para suportar ou solucionar. Já "imersão no domínio" é uma etapa do processo de Onboarding que visa promover em novos colaboradores a compreensão do negócio, de seus objetivos e contexto operacional. Isso através de, principalmente, a realização de demandas reais. Tal entendimento paralelo à prática é essencial para que os desenvolvedores possam:
+- Criar soluções que não somente funcionem tecnicamente, mas que também agreguem valor real ao negócio.
+- Ter um tempo para produtividade menor e, dessa forma, contribuir mais cedo para os propósitos do time.
+- Enxergar com mais facilidade o propósito de seu trabalho e como ele contribui para o sucesso da organização, auxiliando, assim, em gerar motivação e engajamento.
+
+A título de exemplo, possíveis atividades a serem consideradas nessa dimensão seriam:
+
+1. **Mentoria:** Designar um mentor experiente para novos funcionários. Essa pessoa, através de um acompanhamento individualizado, terá a função de guiar, esclarecer dúvidas e compartilhar conhecimento.
+2. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas em capacitar o novo colaborador nas tecnologias e especificidades técnicas do time. Exemplos incluem: Workshops em ferramentas e frameworks relevantes; Sessões de hands-on simulando a resolução de demandas do projeto; Pair programming.
+3. **Execução de demandas:** Atribuir tarefas, com aumento gradual de complexidade, de forma a promover a participação de novos talentos na execução de melhorias e/ou manutenção do sistema em que o time atua.
+
+No que tange e escopo e relação com outras dimensões do Onboarding, "Imersão no domínio" deve ser o foco principal do processo após a fase inicial de Integração.
 
 #### **Diagrama das Dimensões:**
 
@@ -98,7 +110,7 @@ A seguir expõe-se um exemplo de resposta baseado nesse modelo:
 4. Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
 5. Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
 
-As respostas das perguntas 1, 2 e 3 estão relacionadas às dimensões de "Integração" e "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
+As respostas das perguntas 1, 2 e 3 estão relacionadas à "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
 
 [Seria necessário outro exemplo? Talvez um mais simples?]
 
@@ -109,6 +121,10 @@ As respostas das perguntas 1, 2 e 3 estão relacionadas às dimensões de "Integ
 
 ### Papéis e Responsabilidades
 - Identificação e descrição das diferentes figuras envolvidas no processo, assim como suas respectivas responsabilidades.
+
+A) Mentor - pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding.
+
+B) Parceiro - membros do time que irão acompanhar por curtos períodos de tempo, pessoas sendo submetidas ao processo de Onboarding. Devem realizar tarefas de forma conjunta (building rapport).
 
 ## Capítulo 4: Execução
 
