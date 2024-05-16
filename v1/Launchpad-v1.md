@@ -35,6 +35,8 @@ Como forma de facilitar a visualização geral do processo, o Launchpad divide o
 - [Cultura](#cultura);
 - [Imersão no Domínio](#imersão-no-domínio).
 
+No que tange a duração, o Launchpad define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Para integrar alguém em uma equipe de desenvolvimento de software, sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos de um time. Por exemplo, para uma equipe responsável pela manutenção e melhorias num serviço de gerenciamento de tarefas internas da empresa, na qual o escopo de trabalho é bem definido, um plano de Onboarding de 4 semanas pode ser a melhor opção. Já para outra equipe responsável pelo desenvolvimento e manutenção de uma plataforma de e-commerce complexa e de grande escala, que atende a milhões de usuários, um plano de Onboarding mais extenso, de 12 semanas, pode ser a melhor opção devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
+
 #### **Integração:**
 
 Pode ser entendida como o conjunto de passos que visam promover a rápida e eficaz inserção dos novos colaboradores na organização. Este processo vai além da simples ambientação física, envolvendo também a socialização do indivíduo na cultura organizacional, compartilhamento de informações essenciais sobre a empresa, suas práticas e valores, bem como estabelecimento de vínculos interpessoais. Através da integração, os novos membros obtêm o suporte necessário para se adaptarem ao novo ambiente de trabalho, compreenderem suas funções e responsabilidades.
@@ -43,9 +45,10 @@ Como exemplos de passos relacionados à integração, cita-se:
 
 1. **Sessões de Boas Vindas:** Momentos focados em introduzir novos colaboradores ao contexto do time, seus valores, objetivos. Visa fornecer informações claras sobre as responsabilidades e expectativas acerca da atuação desses indivíduos. Tais sessões tendem a ter uma estrutura fixa e pré-elaborada.
 2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida.
-2. **Mentoria:** Envolve designar um mentor experiente para novos colaboradores. Esse funcionário terá a função de guiar, esclarecer dúvidas e compartilhar conhecimento.
-4. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas na capacitação do novo colaborador quanto às tecnologias e especificidades técnicas do time. Exemplos incluem: Bootcamps; Workshops em ferramentas e frameworks utilizados pelo time; sessões de hands-on simulando a resolução de demandas do projeto. 
-5. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
+3. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas na capacitação do novo colaborador quanto às tecnologias e especificidades técnicas do time. Exemplos incluem: Bootcamps; Workshops em ferramentas e frameworks utilizados pelo time; sessões de hands-on simulando a resolução de demandas do projeto. 
+4. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
+
+No que tange a escopo e tempo, entre as três dimensões do Onboarding, Integração é a única que deve ter uma janela de tempo de execução mais estrita. Seu foco é proporcionar uma ótima primeira impressão, uma introdução do novo membro à equipe e seu escopo de trabalho.
 
 #### **Cultura:**
 
@@ -59,9 +62,13 @@ Ao longo do tempo, ao promover a qualidade do código a equipe percebeu uma redu
 
 Uma cultura bem estabelecida torna explícito ao novo funcionário a identidade do grupo - o conjunto de crenças e visão de futuro que desejam promover. Através da assimilação dessa identidade, novos colaboradores são capazes melhor se alinhar com as expectativas organizacionais, demonstrando maior satisfação no trabalho, engajamento, comprometimento e senso de pertencimento. Dessa forma, a cultura se torna uma ferramenta poderosa na formação de uma equipe coesa e no estabelecimento e adesão de uma identidade compartilhada.
 
+Quanto à tempo e escopo, Cultura é uma dimensão que deve ser exercida continuamente durante todo o processo de Onboarding. Ela não é apenas um conjunto de atividades a serem executadas. Ela é uma dimensão ampla pois envolvem valores - sua identificação, exercício e manutenção.
+
 #### **Imersão no Domínio:**
 
 - Entendimento do negócio e realização de demandas reais como forma de auxiliar com - eficácia, geração de valor, produtividade. Ler https://engsoftmoderna.info/cap2.html 
+
+1. **Mentoria:** Envolve designar um mentor experiente para novos colaboradores. Esse funcionário terá a função de guiar, esclarecer dúvidas e compartilhar conhecimento.
 
 #### **Diagrama das Dimensões:**
 
