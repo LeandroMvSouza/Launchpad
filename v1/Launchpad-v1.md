@@ -90,6 +90,12 @@ No que tange e escopo e relação com outras dimensões do Onboarding, "Imersão
 
 ## Capítulo 2: Estabelecendo o Alicerce
 
+O Launchpad foi desenvolvido a partir da crença de que documentação é um alicerce para o Onboarding. Quanto mais ampla a gama de processos, valores, requerimentos, padrões arquiteturais e funcionalidades chave documentadas, mais robusto e menos dispendioso será a Socialização Organizacional. 
+
+- Robusto pois a documentação torna tangível e consultável acordos tácitos e decisões relevantes ao contexto de atuação de um time, facilitando não somente o acompanhamento de seu progresso ao longo do tempo como também o entendimento do domínio e cultura da equipe. 
+
+- Menos dispendioso pois, independente do contexto, times de desenvolvimento de software lidam com a geração e manutenção de conhecimento. Conhecimento pode ser transitório, seja porque não é mais aplicável ao contexto devido à mudanças do próprio negócio ou por forças externas (ex: mudanças de normas e leis), seja pela rotatividade de funcionários comum ao cenário de implementação e manutenção de software. Além disso, transmiti-lo é um ato que requer tempo e dedicação. Uma documentação organizada para consulta sobre demanda facilita o gerenciamento de conhecimento. Ela reduz os impactos negativos da saída de funcionários ao tornar consultável partes de seu saber. Ela diminui a necessidade de acompanhamento de novos funcionários na realização de tarefas e processos conhecidos.
+
 ### Fundamentação
 
 É importante que se entenda o cenário no qual uma equipe atua antes de se iniciar a execução do processo de Onboarding, já que é este meio que delimita o que é relevante para o sucesso do time e, consequentemente, a tomada de decisões e delimitação de metas para a Socialização Organizacional. As necessidades de um time focado no design de interfaces web interativas são diferentes das de um time focado na análise de dados. Enquanto o primeiro tem como prioridades a criação de layouts responsivos e a otimização da experiência do usuário, o segundo tem como foco a transformação de dados brutos em informações e visualizações relevantes à tomada de decisões de negócio.
@@ -115,7 +121,7 @@ As respostas das perguntas 1, 2 e 3 estão relacionadas à "Imersão no Domínio
 [Seria necessário outro exemplo? Talvez um mais simples?]
 
 ### Filtro de Informações
-- Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior. Bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. É importante que a experiência de onboarding seja localizada, idealmente apresentando ao novo contribuidor uma parte específica do todo a qual ele terá maiores chances de trabalhar nas etapas iniciais de seu trabalho.
+- Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior. Bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. É importante que a experiência de onboarding seja localizada, idealmente apresentando ao novo contribuidor uma parte específica do todo a qual ele terá maiores chances de trabalhar nas etapas iniciais de sua atuação.
 
 ## Capítulo 3: Envolvimento dos Atores
 
