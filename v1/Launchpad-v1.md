@@ -96,6 +96,10 @@ O Launchpad foi desenvolvido a partir da crença de que documentação é um ali
 
 - Menos dispendioso pois, independente do contexto, times de desenvolvimento de software lidam com a geração e manutenção de conhecimento. Conhecimento pode ser transitório, seja porque não é mais aplicável ao contexto devido à mudanças do próprio negócio ou por forças externas (ex: mudanças de normas e leis), seja pela rotatividade de funcionários comum ao cenário de implementação e manutenção de software. Além disso, transmiti-lo é um ato que requer tempo e dedicação. Uma documentação organizada para consulta sobre demanda facilita o gerenciamento de conhecimento. Ela reduz os impactos negativos da saída de funcionários ao tornar consultável partes de seu saber. Ela diminui a necessidade de acompanhamento de novos funcionários na realização de tarefas e processos conhecidos.
 
+Dito isso, bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. Dessa forma, é importante que a experiência prática do Onboarding seja apenas uma parte do todo, idealmente apresentando aos novos talentos uma parte específica na qual terão maiores chances de trabalhar nas etapas iniciais de sua atuação. Além disso, nem todo time possui uma documentação pronta a ser filtrada para os propósitos de Onboarding.
+
+As sessões deste capítulo têm como objetivo definir a estrutura do Alicerce - o documento base para o processo de Socialização Organizacional proposto pelo Launchpad. Sua meta é não somente explicitar como também facilitar a tarefa de identificação do contexto, objetivos, aspectos sócio comportamentais e processos internos relevantes à novos membros da equipe.
+
 ### Fundamentação
 
 É importante que se entenda o cenário no qual uma equipe atua antes de se iniciar a execução do processo de Onboarding, já que é este meio que delimita o que é relevante para o sucesso do time e, consequentemente, a tomada de decisões e delimitação de metas para a Socialização Organizacional. As necessidades de um time focado no design de interfaces web interativas são diferentes das de um time focado na análise de dados. Enquanto o primeiro tem como prioridades a criação de layouts responsivos e a otimização da experiência do usuário, o segundo tem como foco a transformação de dados brutos em informações e visualizações relevantes à tomada de decisões de negócio.
@@ -120,8 +124,48 @@ As respostas das perguntas 1, 2 e 3 estão relacionadas à "Imersão no Domínio
 
 [Seria necessário outro exemplo? Talvez um mais simples?]
 
-### Filtro de Informações
-- Estratégias para filtrar e priorizar informações cruciais, baseado no alicerce criado no tópico anterior. Bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. É importante que a experiência de onboarding seja localizada, idealmente apresentando ao novo contribuidor uma parte específica do todo a qual ele terá maiores chances de trabalhar nas etapas iniciais de sua atuação.
+### Mapa de Dependências
+
+Colocar no papel tudo aquilo necessário para um indivíduo iniciar a contribuir com o time.
+
+- Acessos necessários
+  - Serviços
+    - Internos
+    - De terceiros
+  - Ambientes de desenvolvimento
+  - Ferramentas
+    - Deployment
+    - SCM
+    - Testes automatizados
+- Links relevantes no dia a dia da equipe
+  - Ambientes
+  - Repositórios
+  - Ferramentas de deployment
+- Referência para consulta sob demanda
+  - Pessoas + Respectiva especialidade
+  - Documentação interna de serviços desenvolvidos
+  - Documentação externa de serviços utilizados
+
+### Banco de tarefas
+
+Separação de tarefas que podem ser executadas por novos colaboradores. Bons candidatos incluem:
+
+- Tarefas pré-refinadas e identificadas com um nível de complexidade condizente com a perfil senioridade do novo colaborador.
+- Resolução de débitos técnicos:
+  - Refatoração
+    - a
+    - b
+    - c
+  - ...
+- Incremento e/ou criação de documentação
+  - Seguir documentação vigente e propor alterações caso necessário
+- Revisar partes da suíte de testes implementada. Melhores práticas?
+  - a
+  - b
+  - c
+- ...
+
+IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem tomar. Planilhas; Backlog; Tickets; Stickers; etc. Procure sempre dar uma visão de algo tangível para cada passo do Launchpad.
 
 ## Capítulo 3: Envolvimento dos Atores
 
@@ -138,13 +182,19 @@ B) Parceiro - membros do time que irão acompanhar por curtos períodos de tempo
 - Detalhar a execução; separação do modelo em partes conceituais delimitadas abaixo.
 
 #### Integração
-Objetivos - retenção; valorização
+Objetivos - retenção; valorização; acolhimento.
+
+Passos bem estabelecidos para introduzir a pessoa à organização, definir o escopo de atuação dessa pessoa e expectativas quanto a seu trabalho, assinalar figuras de apoio adequadas.
 
 #### Cultura
 Objetivos - Coesão; propósito
 
+Mecanismos para promover a cultura desejada e manter a cultura desejada.
+
 #### Imersão no domínio
 Objetivos - Eficácia; redução do tempo para produtividade
+
+Mecanismos para introduzir com rapidez e propósito localizado o novo colaborador à resolução de problemas da equipe.
 
 ## Capítulo 5: Iteração e Melhoria Contínua
 
