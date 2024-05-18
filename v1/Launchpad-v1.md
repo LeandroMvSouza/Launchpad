@@ -1,5 +1,35 @@
 # Launchpad - Manual de Onboarding para Desenvolvedores
 
+**Tabela de Conteúdos:**
+- [Launchpad - Manual de Onboarding para Desenvolvedores](#launchpad---manual-de-onboarding-para-desenvolvedores)
+  - [Introdução](#introdução)
+  - [Capítulo 1: Compreendendo "Onboarding"](#capítulo-1-compreendendo-onboarding)
+    - [Conceito](#conceito)
+    - [Dimensões do Onboarding](#dimensões-do-onboarding)
+      - [**Integração:**](#integração)
+      - [**Cultura:**](#cultura)
+      - [**Imersão no Domínio:**](#imersão-no-domínio)
+      - [**Diagrama das Dimensões:**](#diagrama-das-dimensões)
+  - [Capítulo 2: Estabelecendo o Alicerce](#capítulo-2-estabelecendo-o-alicerce)
+    - [Fundamentação](#fundamentação)
+    - [Mapa de Dependências](#mapa-de-dependências)
+      - [**Compliance**](#compliance)
+      - [**Acessos e procedimentos de requisição**](#acessos-e-procedimentos-de-requisição)
+      - [**Referência para consulta sob demanda**](#referência-para-consulta-sob-demanda)
+    - [Banco de tarefas](#banco-de-tarefas)
+  - [Capítulo 3: Envolvimento dos Atores](#capítulo-3-envolvimento-dos-atores)
+    - [Papéis e Responsabilidades](#papéis-e-responsabilidades)
+  - [Capítulo 4: Execução](#capítulo-4-execução)
+    - [Implementação do Processo](#implementação-do-processo)
+      - [Integração](#integração-1)
+      - [Cultura](#cultura-1)
+      - [Imersão no domínio](#imersão-no-domínio-1)
+  - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
+    - [Avaliação e Feedback](#avaliação-e-feedback)
+  - [Conclusão](#conclusão)
+  - [Referências](#referências)
+
+
 ## Introdução
 
 - O objetivo desta sessão será expor o propósito e motivação central do manual.
