@@ -134,7 +134,7 @@ O Mapa de Dependências tem como função detalhar as necessidades logísticas, 
 
 #### **Compliance**
 
-Conjunto de documentos e recursos cujo objetivo é garantir que novos colaboradores estejam cientes e alinhados com as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta sessão. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
+Conjunto de materiais e recursos destinados a assegurar que novos colaboradores compreendam e sigam as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta sessão. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
 
 - **Obrigações legais e contratuais**:
   - Código de conduta: 
@@ -153,18 +153,31 @@ Conjunto de documentos e recursos cujo objetivo é garantir que novos colaborado
   - Ergonomia:
     - Conjunto de regras e equipamentos necessários à garantia de conforto e saúde dos membros da equipe. Sua função é prevenir lesões ocupacionais. Isso inclui a escolha de cadeiras ergonômicas, mesas ajustáveis, suportes para monitores, teclados e mouses ergonômicos, iluminação e ventilação adequada, além da organização do espaço de trabalho para reduzir o esforço físico e mental dos colaboradores.
 
-#### **Acessos necessários e procedimentos de requisição**
+#### **Acessos e procedimentos de requisição**
 
-- Tabela de acessos
-  - Serviços
-    - Internos
-    - De terceiros
-- Ambientes de desenvolvimento
-- Ferramentas
-  - Deployment
-  - SCM
-  - Testes automatizados
+Independente do porte de um time e natureza do sistema com que trabalham, sempre haverá uma suíte de ferramentas internas e externas utilizadas no exercício das funções da equipe. Dessa forma, faz-se necessário um catálogo dessas ferramentas, assim como do nível de permissão e formas apropriadas para requisição de acesso.
 
+No que tange à permissões, esse item também pode ser entendido como os diferentes conjuntos de ações ou operações específicas que determinados papéis dentro de um sistema podem realizar. Considerando o momento de Onboarding onde funcionários estão aprendendo um novo cenário, pode ser mais seguro dar a essas pessoass um papel com nível de permissões limitada, no intuito de reduzir possíveis problemas (ex: deleção de dados; modificação indevida de configurações críticas; acesso não autorizado a informações sensíveis). Assim, num cenário ideal esse quesito deve estar de acordo com as designações de compliance levantadas no item anterior, sejam elas estipuladas pelo próprio time através de melhores práticas de segurança como o princípio do menor privilégio, obrigações contraturais para com o cliente ou políticas da organização na qual o time está inserido.
+
+O catálogo dessas informações pode tomar diferentes formas:
+- Planilhas
+- Tabelas
+- Diagramas
+
+A nível de simplificação, sugere-se ao menos uma tabela com as seguintes colunas:
+- Nome da Ferramenta
+- Utilidade da Ferramenta
+- Papel e Permissões
+- Procedimento de Requisição
+- Responsáveis pela Aprovação
+
+Segue uma tabela de exemplo:
+
+| Nome da Ferramenta | Utilidade da Ferramenta          | Papel e Permissões               | Procedimento de Requisição  | Responsáveis pela Aprovação |
+| ------------------ | -------------------------------- | -------------------------------- | --------------------------- | --------------------------- |
+| GitHub             | Plataforma de controle de versão | Desenvolvedor: Leitura e Escrita | Preenchimento de formulário | Pessoa X - email@email.com  |
+| Jenkins            | Serviços de CI/CD                | Administrador: Projeto X         | E-mail para responsável     | Pessoa Y - email@email.com  |
+| Jira               | Gerenciamento de Projetos        | Usuário: Leitura                 | Solicitação via portal TI   | Pessoa Z - email@email.com  |
 
 #### **Referência para consulta sob demanda**
 
