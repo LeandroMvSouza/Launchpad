@@ -30,12 +30,12 @@ Porém, esses benefícios pressupôem não somente estabelecer uma base de conhe
 
 ### Dimensões do Onboarding
 
-Como forma de facilitar a visualização geral do processo, o Launchpad divide o Onboarding em três dimensões:
+Como forma de facilitar a visualização geral do processo, o **Launchpad** divide o Onboarding em três dimensões:
 - [Integração](#integração); 
 - [Cultura](#cultura);
 - [Imersão no Domínio](#imersão-no-domínio).
 
-No que tange a duração, o Launchpad define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos do time. Por exemplo - para uma equipe responsável pela manutenção e melhoria de um serviço de gerenciamento de tarefas, na qual o escopo de trabalho é bem definido e interno à empresa, um plano de 4 semanas pode ser uma boa opção. Já para outra equipe que lida com uma plataforma de e-commerce complexa e de grande escala, um plano de Onboarding mais extenso, de 12 semanas, pode ser mais aconselhável devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
+No que tange a duração, o **Launchpad** define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos do time. Por exemplo - para uma equipe responsável pela manutenção e melhoria de um serviço de gerenciamento de tarefas, na qual o escopo de trabalho é bem definido e interno à empresa, um plano de 4 semanas pode ser uma boa opção. Já para outra equipe que lida com uma plataforma de e-commerce complexa e de grande escala, um plano de Onboarding mais extenso, de 12 semanas, pode ser mais aconselhável devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
 
 #### **Integração:**
 
@@ -90,7 +90,7 @@ No que tange e escopo e relação com outras dimensões do Onboarding, "Imersão
 
 ## Capítulo 2: Estabelecendo o Alicerce
 
-O Launchpad foi desenvolvido a partir da crença de que documentação é um alicerce para o Onboarding. Quanto mais ampla a gama de processos, valores, requerimentos, padrões arquiteturais e funcionalidades chave documentadas, mais robusto e menos dispendioso será a Socialização Organizacional. 
+O **Launchpad** foi desenvolvido a partir da crença de que documentação é um alicerce para o Onboarding. Quanto mais ampla a gama de processos, valores, requerimentos, padrões arquiteturais e funcionalidades chave documentadas, mais robusto e menos dispendioso será a Socialização Organizacional. 
 
 - Robusto pois a documentação torna tangível e consultável acordos tácitos e decisões relevantes ao contexto de atuação de um time, facilitando não somente o acompanhamento de seu progresso ao longo do tempo como também o entendimento do domínio e cultura da equipe. 
 
@@ -98,7 +98,7 @@ O Launchpad foi desenvolvido a partir da crença de que documentação é um ali
 
 Dito isso, bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. Dessa forma, é importante que a experiência prática do Onboarding seja apenas uma parte do todo, idealmente apresentando aos novos talentos uma parte específica na qual terão maiores chances de trabalhar nas etapas iniciais de sua atuação. Além disso, nem todo time possui uma documentação pronta a ser filtrada para os propósitos de Onboarding.
 
-As sessões deste capítulo têm como objetivo definir a estrutura do Alicerce - o documento base para o processo de Socialização Organizacional proposto pelo Launchpad. Sua meta é não somente explicitar como também facilitar a tarefa de identificação do contexto, objetivos, aspectos sócio comportamentais e processos internos relevantes à novos membros da equipe.
+As sessões deste capítulo - [Fundamentação](#fundamentação); [Mapa de Dependências](#mapa-de-dependências); [Banco de Tarefas](#banco-de-tarefas) - definem a estrutura do **Alicerce:** o documento base para o processo de Socialização Organizacional proposto pelo **Launchpad**. Sua meta é não somente explicitar como também facilitar a tarefa de identificação do contexto, objetivos, aspectos sócio comportamentais e processos internos relevantes à novos membros da equipe.
 
 ### Fundamentação
 
@@ -126,25 +126,57 @@ As respostas das perguntas 1, 2 e 3 estão relacionadas à "Imersão no Domínio
 
 ### Mapa de Dependências
 
-Colocar no papel tudo aquilo necessário para um indivíduo iniciar a contribuir com o time.
+O Mapa de Dependências tem como função detalhar as necessidades logísticas, legais, tecnológicas e de acesso que novos colaboradores devem atender para começar a contribuir. Ele está dividido nas sessões:
 
-- Acessos necessários
+- [Compliance](#compliance)
+- [Acessos necessários e procedimentos de requisição](#acessos-necessários-e-procedimentos-de-requisição)
+- [Referências para consulta sob demanda](#referência-para-consulta-sob-demanda)
+
+#### **Compliance**
+
+Conjunto de documentos e recursos cujo objetivo é garantir que novos colaboradores estejam cientes e alinhados com as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta sessão. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
+
+- **Obrigações legais e contratuais**:
+  - Código de conduta: 
+    - Documento que destaca expectativas de comportamento, ética no trabalho assim como diretrizes para resolução de conflitos.
+  - Políticas de segurança:
+    - Instruções quanto à segurança da informação, incluindo práticas recomendadas para senhas, treinamentos periódicos em cybersegurança, melhores práticas no uso de dispositivos pessoais e do trabalho.
+  - Política de dados e privacidade:
+    - Registro das leis de segurança e privacidade dos dados a serem seguidas no exercício do trabalho de desenvolvimento. Se o escopo de trabalho do time envolve o Brasil e dados de cidadãos brasileiros, por exemplo, nesse caso a equipe precisa garantir que está seguindo a Lei Geral de Proteção de Dados Pessoais (LGPD ; L13709).
+- **Recursos necessários à produção**:
+  - Hardware:
+    - Documento, lista ou inventário delimitando os dispositivos físicos necessários ao exercício do trabalho, assim como suas respectivas especificidades técnicas. Itens a serem considerados incluem, mas não estão limitados a: Computador; Notebook; Monitores; Processadores; Dispositivo de Armazenamento e/ou Backup.
+  - Software e licenças:
+    - Lista os softwares necessários, incluindo ferramentas específicas para compliance e segurança, como antivírus, firewalls e sistemas de monitoramento. Dentre exemplos cita-se: Licenças de sistemas operacionais, ferramentas de desenvolvimento (IDEs, editores de texto), software de gestão de projetos (Jira, Trello), e ferramentas de colaboração (Slack, Microsoft Teams).
+  - Suporte técnico e manutenção:
+    - Delimitação dos contatos para a resolução de problemas técnicos e de manutenção de equipamentos. Essa esfera de documentos também pode incluir procedimentos e regras a serem seguidas no que tange à atualização de software e hardware (ex: frequência desejada; versões suportadas; etc).
+  - Ergonomia:
+    - Conjunto de regras e equipamentos necessários à garantia de conforto e saúde dos membros da equipe. Sua função é prevenir lesões ocupacionais. Isso inclui a escolha de cadeiras ergonômicas, mesas ajustáveis, suportes para monitores, teclados e mouses ergonômicos, iluminação e ventilação adequada, além da organização do espaço de trabalho para reduzir o esforço físico e mental dos colaboradores.
+
+#### **Acessos necessários e procedimentos de requisição**
+
+- Tabela de acessos
   - Serviços
     - Internos
     - De terceiros
-  - Ambientes de desenvolvimento
-  - Ferramentas
-    - Deployment
-    - SCM
-    - Testes automatizados
+- Ambientes de desenvolvimento
+- Ferramentas
+  - Deployment
+  - SCM
+  - Testes automatizados
+
+
+#### **Referência para consulta sob demanda**
+
+- Membros do time (tabela)
+  - Pessoas + Respectiva especialidade
+- Documentação técnica e de processos
+  - Documentação interna de serviços desenvolvidos
+  - Documentação externa de serviços utilizados
 - Links relevantes no dia a dia da equipe
   - Ambientes
   - Repositórios
   - Ferramentas de deployment
-- Referência para consulta sob demanda
-  - Pessoas + Respectiva especialidade
-  - Documentação interna de serviços desenvolvidos
-  - Documentação externa de serviços utilizados
 
 ### Banco de tarefas
 
@@ -165,7 +197,7 @@ Separação de tarefas que podem ser executadas por novos colaboradores. Bons ca
   - c
 - ...
 
-IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem tomar. Planilhas; Backlog; Tickets; Stickers; etc. Procure sempre dar uma visão de algo tangível para cada passo do Launchpad.
+IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem tomar. Planilhas; Backlog; Tickets; Stickers; etc. Procure sempre dar uma visão de algo tangível para cada passo do **Launchpad**.
 
 ## Capítulo 3: Envolvimento dos Atores
 
