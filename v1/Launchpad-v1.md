@@ -15,7 +15,7 @@
     - [Mapa de Dependências](#mapa-de-dependências)
       - [**Compliance**](#compliance)
       - [**Acessos e procedimentos de requisição**](#acessos-e-procedimentos-de-requisição)
-      - [**Referência para consulta sob demanda**](#referência-para-consulta-sob-demanda)
+      - [**Referências para consulta sob demanda**](#referências-para-consulta-sob-demanda)
     - [Banco de tarefas](#banco-de-tarefas)
   - [Capítulo 3: Envolvimento dos Atores](#capítulo-3-envolvimento-dos-atores)
     - [Papéis e Responsabilidades](#papéis-e-responsabilidades)
@@ -209,17 +209,47 @@ Segue uma tabela de exemplo:
 | Jenkins            | Serviços de CI/CD                | Administrador: Projeto X         | E-mail para responsável     | Pessoa Y - email@email.com  |
 | Jira               | Gerenciamento de Projetos        | Usuário: Leitura                 | Solicitação via portal TI   | Pessoa Z - email@email.com  |
 
-#### **Referência para consulta sob demanda**
+#### **Referências para consulta sob demanda**
 
-- Membros do time (tabela)
-  - Pessoas + Respectiva especialidade
-- Documentação técnica e de processos
-  - Documentação interna de serviços desenvolvidos
-  - Documentação externa de serviços utilizados
-- Links relevantes no dia a dia da equipe
-  - Ambientes
+Parte importante do Alicerce proposto pelo **Launchpad** é a tomada de medidas para facilitar a navegação da base de conhecimentos do time por novos colaboradores. Reiterando, novos colaboradores devem ser apresentados a um filtro do todo, sendo esse idealmente alinhado com o que essas pessoas terão maiores chances de atuar nos momentos iniciais de sua carreira na equipe. Assim, sugere-se a criação e/ou separação dos segiuntes artefatos num local único, de forma a facilitar sua consulta e atualização contínua:
+
+- Documentação técnica
+- Processos
+- Links relevantes no dia a dia
+- Tabela de membros
+
+A título de exemplo, pense em uma equipe internacional focada na criação e manutenção de um e-commerce web. Houve uma recente contratação de um desenvolvedor Frontend que irá substituir o atual membro do time. Dentre as possíveis referências a serem mapeadas, poderíamos considerar:
+
+- Documentação técnica
+  - Lista de tecnologias utilizadas no Frontend:
+    - Next.js
+    - Typescript
+    - Tailwind
+  - Features de domínio:
+    - Otimizações de SEO
+    - Busca e listagem de produtos
+    - Carrinho de compras
+  - Integrações relevantes:
+    - API's de busca e transações
+- Processos
+  - SCM
+  - Atualização de ambiente
+  - Requisição de deployments
+- Links relevantes no dia a dia
+  - Ambientes (dev; produção)
   - Repositórios
-  - Ferramentas de deployment
+  - Templates de design
+- Tabela de membros:
+
+| Nome            | Papel na Equipe                           | Contato                   | País/Localização   | Timezone |
+| --------------- | ----------------------------------------- | ------------------------- | ------------------ | -------- |
+| Maria Silva     | Desenvolvedora Backend                    | maria.silva@email.com     | Brasil             | GMT-3    |
+| Julia Santos    | Desenvolvedora Frontend                   | julia.santos@email.com    | Brasil             | GMT-3    |
+| João Souza      | Novo Colaborador - Desenvolvedor Frontend | joao.souza@email.com      | Portugal           | GMT+1    |
+| Ana Pereira     | Analista de QA                            | ana.pereira@email.com     | EUA (Califórnia)   | GMT-7    |
+| Carlos Lima     | Engenheiro DevOps                         | carlos.lima@email.com     | Índia              | GMT+5:30 |
+| Luisa Fernandes | Designer UX/UI                            | luisa.fernandes@email.com | Austrália (Sydney) | GMT+10   |
+
 
 ### Banco de tarefas
 
