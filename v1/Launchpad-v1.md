@@ -41,7 +41,7 @@ Para Dave Farley, co-autor do livro Continuous Delivery, desenvolvimento de soft
 
 Em cenários de substituição de pessoas, o qual é, infelizmente, comum ao contexto da criação e manutenção de software [cite], a perda de conhecimento e experiência de contribuidores antigos associada à necessidade de treinamento e inclusão de novos colaboradores, pode impactar significativamente o custo e a duração de um projeto. Segundo um estudo feito ainda em 1989 [cite], tais mudanças podem levar à acréscimos de 40% a até 60% no custo de desenvolvimento.
 
-Como então se adaptar a esses desafios de forma a estabelecer um processo que auxilie a reter talento humano?
+Como então se adaptar a esses desafios de forma a estabelecer um processo que auxilia a reter talento humano?
 
 O **Launchpad** foi cencebido como uma possível resposta para esse contexto. Sua hipótese principal e motivadora é que - **primeiras impressões importam**. Um funcionário acolhido por um processo de onboarding estruturado, onde é paulatinamente apresentado aos círculos sociais e modus operandi da sua empresa, sendo sujeito a etapas de treinamento com objetivos bem definidos e apoio, têm maiores chances de permanecer numa organização. Isso pois, desde o início, obteve as informações e suporte necessários para não somente exercer sua função como também assimilar os valores e objetivos estratégicos estabelecidos pela empresa.
 
@@ -296,6 +296,8 @@ Objetivos - Coesão; propósito
 
 Mecanismos para promover a cultura desejada e manter a cultura desejada.
 
+Mapear os diferentes tipos de conflitos de interesse levantados na Monografia I. Tencar encontrar formas de solucioná-los.
+
 #### Imersão no domínio
 Objetivos - Eficácia; redução do tempo para produtividade
 
@@ -313,3 +315,4 @@ Mecanismos para introduzir com rapidez e propósito localizado o novo colaborado
 
 - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
 - Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+- [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
