@@ -18,12 +18,14 @@
       - [**Referências para consulta sob demanda**](#referências-para-consulta-sob-demanda)
     - [Banco de tarefas](#banco-de-tarefas)
   - [Capítulo 3: Envolvimento dos Atores](#capítulo-3-envolvimento-dos-atores)
-    - [Papéis e Responsabilidades](#papéis-e-responsabilidades)
+    - [Anfitrião de Integração](#anfitrião-de-integração)
+    - [Mentor](#mentor)
+    - [Parceiro](#parceiro)
   - [Capítulo 4: Execução](#capítulo-4-execução)
     - [Implementação do Processo](#implementação-do-processo)
-      - [Integração](#integração-1)
-      - [Cultura](#cultura-1)
-      - [Imersão no domínio](#imersão-no-domínio-1)
+      - [**Integração**](#integração-1)
+      - [**Cultura**](#cultura-1)
+      - [**Imersão no domínio**](#imersão-no-domínio-1)
   - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
     - [Avaliação e Feedback](#avaliação-e-feedback)
   - [Conclusão](#conclusão)
@@ -274,31 +276,65 @@ IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem toma
 
 ## Capítulo 3: Envolvimento dos Atores
 
-### Papéis e Responsabilidades
-- Identificação e descrição das diferentes figuras envolvidas no processo, assim como suas respectivas responsabilidades.
+Neste capítulo tanto se identifica quanto se descreve as diferentes figuras envolvidas no processo de Socialização Organizacional de desenvolvedores, assim como suas respectivas responsabilidades.
 
-A) Mentor - pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding.
+### Anfitrião de Integração
 
-B) Parceiro - membros do time que irão acompanhar por curtos períodos de tempo, pessoas sendo submetidas ao processo de Onboarding. Devem realizar tarefas de forma conjunta (building rapport).
+Tem como função garantir que o novo colaborador tenha uma recepção calorosa e informativa, promovendo uma primeira impressão positiva e facilitando a adaptação inicial.
+
+Responsabilidades:
+
+- Boas-Vindas: 
+  - Realizar sessões de boas-vindas e introdução ao contexto do time, valores e objetivos.
+- Coordenação de Atividades: 
+  - Organizar e coordenar atividades de integração, como almoços em grupo e eventos de team building.
+- Orientação Inicial: 
+  - Fornecer informações básicas sobre as políticas da empresa e/ou equipe, regras de segurança e procedimentos operacionais.
+
+### Mentor
+
+Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding. Idealmente, deve ser uma figura exemplar no que tange ao seu comprometimento com os valores essenciais da equipe.
+
+Responsabilidades:
+
+- Acompanhamento Individualizado: 
+  - Oferecer suporte contínuo ao novo colaborador durante o processo de onboarding.
+- Orientação Técnica: 
+  - Auxiliar na compreensão das ferramentas, processos e tecnologias utilizadas pela equipe.
+- Feedback Regular: 
+  - Fornecer feedback construtivo e orientar sobre o desempenho do novo colaborador.
+- Facilitar a Integração do recém chegado nos círculos sociais da equipe: 
+  - Ser a ponte entre o novo membro e a equipe, facilitando a construção de relações interpessoais.
+
+### Parceiro
+
+Membros do time que provém suporte secundário à pessoas sendo submetidas ao processo de Onboarding. Podem ou não ter responsabilidades semelhantes à de mentores. São figuras de apoio, dando auxílio momentâneo em casos de indisponibilidade do Mentor.
+
+Responsabilidades:
+
+- Apoio de curto prazo: 
+  - Fornecer suporte em períodos curtos e específicos, ajudando o novo colaborador a resolver dúvidas imediatas e problemas pontuais.
+- Treinamento específico: 
+  - Conduzir sessões de treinamento. Exemplo: workshops focados nas tecnologias e processos específicos do domínio em que o time atua.
 
 ## Capítulo 4: Execução
 
 ### Implementação do Processo
 - Detalhar a execução; separação do modelo em partes conceituais delimitadas abaixo.
 
-#### Integração
+#### **Integração**
 Objetivos - retenção; valorização; acolhimento.
 
 Passos bem estabelecidos para introduzir a pessoa à organização, definir o escopo de atuação dessa pessoa e expectativas quanto a seu trabalho, assinalar figuras de apoio adequadas.
 
-#### Cultura
+#### **Cultura**
 Objetivos - Coesão; propósito
 
 Mecanismos para promover a cultura desejada e manter a cultura desejada.
 
 Mapear os diferentes tipos de conflitos de interesse levantados na Monografia I. Tencar encontrar formas de solucioná-los.
 
-#### Imersão no domínio
+#### **Imersão no domínio**
 Objetivos - Eficácia; redução do tempo para produtividade
 
 Mecanismos para introduzir com rapidez e propósito localizado o novo colaborador à resolução de problemas da equipe.
