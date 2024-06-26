@@ -116,8 +116,6 @@ No que tange e escopo e relação com outras dimensões do Onboarding, "Imersão
 
 #### **Diagrama das Dimensões:**
 
-- Esboço
-
 ![alt text](./imagens/diagrama-esboço.png)
 
 ## Capítulo 2: Estabelecendo o Alicerce
@@ -255,24 +253,25 @@ A título de exemplo, pense em uma equipe internacional focada na criação e ma
 
 ### Banco de tarefas
 
-Separação de tarefas que podem ser executadas por novos colaboradores. Bons candidatos incluem:
+Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua. Sua elaboração é feita através da separação de atividades, idealmente pré-refinadas, que foram identificadas com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. Tarefas candidatas incluem, mas não estão limitadas a:
 
-- Tarefas pré-refinadas e identificadas com um nível de complexidade condizente com a perfil senioridade do novo colaborador.
-- Resolução de débitos técnicos:
-  - Refatoração
-    - a
-    - b
-    - c
-  - ...
-- Incremento e/ou criação de documentação
-  - Seguir documentação vigente e propor alterações caso necessário
-- Revisar partes da suíte de testes implementada. Melhores práticas?
-  - a
-  - b
-  - c
-- ...
+- **Resolução de débitos técnicos através da refatoração:**
+  - Reduzir duplicidade de código: tratamento de código duplicado através da criação de métodos ou classes utilitárias que encapsulem a lógica repetida.
+  - Modularização e simplificação de métodos: dividir funções longas em partes menores, idealmente especializadas na resolução de uma única parte do problema.
+  - Redução de acoplamento: identificar e remover dependências desnecessárias entre classes e módulos utilizando, por exemplo, práticas como injeção de dependências ou até mesmo a substituição de instâncias diretas de classes por interfaces mais fáceis de serem substituídas sob demanda.
+- **Revisão e melhoria da suíte de testes implementada:**
+  - Em projetos que fazem uso de testes, esses são um valioso mapa dos requisitos de negócio e problemas técnicos que o domínio da aplicação procura solucionar. Dessa forma, trabalhar na manutenção e criação de testes tende a oferecer uma visão abrangente das funcionalidades do sistema, auxiliando novos colaboradores a compreender o contexto em que estão sendo inseridos.
+- **Contribuições para a documentação do time:**
+  - Fazer com que recém chegados sigam a documentação vigente e, caso necessário, proponham alterações, é uma ótima atividade a ser considerada. Ela não somente apresenta o novo membro aos processos disponíveis, como também auxilia na manutenção e melhoria da base de conhecimento do time.
+  - Em um caso de estudo realizado em 2010 na Google [[3]](#3), por exemplo, foi constatado que novos engenheiros de software são encorajados a contribuir com entradas no glossário oficial da organização, cujo objetivo é auxiliar funcionários a entender jargões e contextos típicos da empresa, como também no “Manual do Desenvolvedor Google”, o qual contém explicações e links para recursos especializados, como guias de estilo.
+- **Aprendizagem entre pares:**
+  - "Codelabs" : tutoriais práticos, ministrados por membros já estabelecidos no time, nos quais o aluno segue instruções passo a passo para a resolução de uma determinada tarefa comum ao contexto de atuação do time, utilizando para tal as tecnologias empregadas no projeto.
+  - "Pair Programming" : diferente de "Codelabs", o "Pair programming" não é uma atividade pré-estruturada. Ela consiste no trabalho conjunto entre o recém-chegado e um desenvolvedor mais experiente na resolução de demandas. Isso não só ajuda no aprendizado de melhores práticas e padrões de codificação do projeto, mas também facilita a transferência de conhecimento tácito, promovendo maior integração na equipe.
+  - Revisões de código : a participação ativa nesse processo, tanto como autor quanto como revisor, auxilia na compreensão do código-base e cultura de codificação do time.
 
+<!--
 IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem tomar. Planilhas; Backlog; Tickets; Stickers; etc. Procure sempre dar uma visão de algo tangível para cada passo do **Launchpad**.
+-->
 
 ## Capítulo 3: Envolvimento dos Atores
 
@@ -349,6 +348,10 @@ Mecanismos para introduzir com rapidez e propósito localizado o novo colaborado
 
 ## Referências
 
-- Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
-- Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+- #### [1] 
+  - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
+- #### [2]
+  -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+- #### [3] 
+  - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
 - [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
