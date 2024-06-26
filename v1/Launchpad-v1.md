@@ -41,7 +41,7 @@ No mundo atual onde negócios estão cada vez mais digitalizados e falas como **
 
 Para Dave Farley, co-autor do livro Continuous Delivery, desenvolvimento de software é um processo inerentemente criativo que requer alto grau de colaboração. Equipes formadas por profissionais de diferentes áreas trabalham arduamente na criação de partes menores do todo que formam um sistema ou produto. Elas assim o fazem trocando e integrando continuamente informações; código; documentação e experiências.
 
-Em cenários de substituição de pessoas, o qual é, infelizmente, comum ao contexto da criação e manutenção de software [cite], a perda de conhecimento e experiência de contribuidores antigos associada à necessidade de treinamento e inclusão de novos colaboradores, pode impactar significativamente o custo e a duração de um projeto. Segundo um estudo feito ainda em 1989 [cite], tais mudanças podem levar à acréscimos de 40% a até 60% no custo de desenvolvimento.
+Em cenários de substituição de pessoas, o qual é, infelizmente, comum ao contexto da criação e manutenção de software [[1]](#1)[[2]](#2)[[3]](#3), a perda de conhecimento e experiência de contribuidores antigos associada à necessidade de treinamento e inclusão de novos colaboradores, pode impactar significativamente o custo e a duração de um projeto. Segundo um estudo feito ainda em 1989 [[4]](#4), tais mudanças podem levar à acréscimos de 40% a até 60% no custo de desenvolvimento.
 
 Como então se adaptar a esses desafios de forma a estabelecer um processo que auxilia a reter talento humano?
 
@@ -83,7 +83,7 @@ No que tange a escopo e tempo, entre as três dimensões do Onboarding, Integra�
 
 #### **Cultura:**
 
-Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[cite]](#schein1990organizational). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupôe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[cite]](motta2002cultura).
+Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[5]](#5). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupôe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[6]](#6).
 
 Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este: 
 - lida com a integridade dos dados financeiros de seus clientes; 
@@ -263,7 +263,7 @@ Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insum
   - Em projetos que fazem uso de testes, esses são um valioso mapa dos requisitos de negócio e problemas técnicos que o domínio da aplicação procura solucionar. Dessa forma, trabalhar na manutenção e criação de testes tende a oferecer uma visão abrangente das funcionalidades do sistema, auxiliando novos colaboradores a compreender o contexto em que estão sendo inseridos.
 - **Contribuições para a documentação do time:**
   - Fazer com que recém chegados sigam a documentação vigente e, caso necessário, proponham alterações, é uma ótima atividade a ser considerada. Ela não somente apresenta o novo membro aos processos disponíveis, como também auxilia na manutenção e melhoria da base de conhecimento do time.
-  - Em um caso de estudo realizado em 2010 na Google [[3]](#3), por exemplo, foi constatado que novos engenheiros de software são encorajados a contribuir com entradas no glossário oficial da organização, cujo objetivo é auxiliar funcionários a entender jargões e contextos típicos da empresa, como também no “Manual do Desenvolvedor Google”, o qual contém explicações e links para recursos especializados, como guias de estilo.
+  - Em um caso de estudo realizado em 2010 na Google [[7]](#7), por exemplo, foi constatado que novos engenheiros de software são encorajados a contribuir com entradas no glossário oficial da organização, cujo objetivo é auxiliar funcionários a entender jargões e contextos típicos da empresa, como também no “Manual do Desenvolvedor Google”, o qual contém explicações e links para recursos especializados, como guias de estilo.
 - **Aprendizagem entre pares:**
   - "Codelabs" : tutoriais práticos, ministrados por membros já estabelecidos no time, nos quais o aluno segue instruções passo a passo para a resolução de uma determinada tarefa comum ao contexto de atuação do time, utilizando para tal as tecnologias empregadas no projeto.
   - "Pair Programming" : diferente de "Codelabs", o "Pair programming" não é uma atividade pré-estruturada. Ela consiste no trabalho conjunto entre o recém-chegado e um desenvolvedor mais experiente na resolução de demandas. Isso não só ajuda no aprendizado de melhores práticas e padrões de codificação do projeto, mas também facilita a transferência de conhecimento tácito, promovendo maior integração na equipe.
@@ -349,9 +349,17 @@ Mecanismos para introduzir com rapidez e propósito localizado o novo colaborado
 ## Referências
 
 - #### [1] 
-  - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
-- #### [2]
-  -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+  - Steven G Westlund and John C Hannon. Retaining talent: Assessing job satisfaction facets most significantly related to software developer turnover intentions. Journal of Information Technology Management, 19(4):1–15, 2008.
+- #### [2] 
+  - Julian M Bass, Sarah Beecham, Mohammed Abdur Razzak, and John Noll. Employee retention and turnover in global software development: Comparing inhouse offshoring and offshore outsourcing. In Proceedings of the 13th International Conference on Global Software Engineering, pages 82–91, 2018.
 - #### [3] 
+  - Gaurav G Sharma and Klaas-Jan Stol. Exploring onboarding success, organizational fit, and turnover intention of software professionals. Journal of Systems and Software, 159:110442, 2020.
+- #### [4]
+  - Abdel-Hamid, Tarek K. "A study of staff turnover, acquisition, and assimilation and their impact on software development cost and schedule." Journal of Management Information Systems 6.1 (1989): 21-40.
+- #### [5] 
+  - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
+- #### [6]
+  -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+- #### [7] 
   - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
 - [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
