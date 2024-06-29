@@ -9,6 +9,7 @@
       - [**Integração:**](#integração)
       - [**Cultura:**](#cultura)
       - [**Imersão no Domínio:**](#imersão-no-domínio)
+      - [**Imersão na Tecnologia**](#imersão-na-tecnologia)
       - [**Diagrama das Dimensões:**](#diagrama-das-dimensões)
   - [Capítulo 2: Estabelecendo o Alicerce](#capítulo-2-estabelecendo-o-alicerce)
     - [Fundamentação](#fundamentação)
@@ -16,6 +17,7 @@
       - [**Compliance**](#compliance)
       - [**Acessos e procedimentos de requisição**](#acessos-e-procedimentos-de-requisição)
       - [**Referências para consulta sob demanda**](#referências-para-consulta-sob-demanda)
+    - [Documentação Técnica](#documentação-técnica)
     - [Banco de tarefas](#banco-de-tarefas)
   - [Capítulo 3: Envolvimento dos Atores](#capítulo-3-envolvimento-dos-atores)
     - [Anfitrião de Integração](#anfitrião-de-integração)
@@ -62,10 +64,11 @@ Porém, esses benefícios pressupôem não somente estabelecer uma base de conhe
 
 ### Dimensões do Onboarding
 
-Como forma de facilitar a visualização geral do processo, o **Launchpad** divide o Onboarding em três dimensões:
+Como forma de facilitar a visualização geral do processo, o **Launchpad** divide o Onboarding em dimensões:
 - [Integração](#integração); 
 - [Cultura](#cultura);
 - [Imersão no Domínio](#imersão-no-domínio).
+- [Imersão na Tecnologia](#imersão-na-tecnologia)
 
 No que tange a duração, o **Launchpad** define uma janela de tempo para o processo de Onboarding com unidades de tempo em semanas. Sugere-se um período entre 4 e 12 semanas, a ser modificado de acordo com as caracteristicas e objetivos do time. Por exemplo - para uma equipe responsável pela manutenção e melhoria de um serviço de gerenciamento de tarefas, na qual o escopo de trabalho é bem definido e interno à empresa, um plano de 4 semanas pode ser uma boa opção. Já para outra equipe que lida com uma plataforma de e-commerce complexa e de grande escala, um plano de Onboarding mais extenso, de 12 semanas, pode ser mais aconselhável devido à maior complexidade técnica no que tange à escalabilidade, segurança e interação com clientes externos.
 
@@ -79,7 +82,7 @@ Como exemplos de passos relacionados à integração, cita-se:
 2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida. 
 3. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
 
-No que tange a escopo e tempo, entre as três dimensões do Onboarding, Integração é a única que deve ter uma janela de tempo de execução mais estrita. Seu foco é proporcionar uma ótima primeira impressão, uma introdução do novo membro à equipe e seu escopo de trabalho.
+No que tange a escopo e tempo, entre as dimensões do Onboarding propostas, Integração é a única que deve ter uma janela de tempo de execução mais estrita. Seu foco é proporcionar uma ótima primeira impressão, uma introdução do novo membro à equipe e seu escopo de trabalho.
 
 #### **Cultura:**
 
@@ -112,7 +115,11 @@ A título de exemplo, possíveis atividades a serem consideradas nessa dimensão
 2. **Treinamento e Capacitação:** Execução de treinamentos e/ou atividades focadas em capacitar o novo colaborador nas tecnologias e especificidades técnicas do time. Exemplos incluem: Workshops em ferramentas e frameworks relevantes; Sessões de hands-on simulando a resolução de demandas do projeto; Pair programming.
 3. **Execução de demandas:** Atribuir tarefas, com aumento gradual de complexidade, de forma a promover a participação de novos talentos na execução de melhorias e/ou manutenção do sistema em que o time atua.
 
-No que tange e escopo e relação com outras dimensões do Onboarding, "Imersão no domínio" deve ser o foco principal do processo após a fase inicial de Integração.
+No que tange a sua relação com outras dimensões do Onboarding, "Imersão no Domínio" deve andar paralelamente à "Imersão na Tecnologia". Ambas serão o foco principal do processo após a fase inicial de Integração.
+
+#### **Imersão na Tecnologia**
+
+Enquanto a dimensão anterior foca no negócio e nos impactos que a aplicação sob responsabilidade do time tem na organização e stakeholders, a "Imersão na Tecnologia" lida com os artefatos e padrões técnicos utilizados pela aplicação. Em outras palavras, enquanto a "Imersão no Domínio" está focada nos requisitos funcionais e impactos gerados pela aplicação, a "Imersão na Tecnologia" tem como meta gerar compreensão dos requisitos não funcionais, ou seja, dos critérios que especificam como o sistema deve operar para atingir seus objetivos.
 
 #### **Diagrama das Dimensões:**
 
@@ -128,7 +135,7 @@ O **Launchpad** foi desenvolvido a partir da crença de que documentação é um
 
 Dito isso, bases de conhecimento para times de desenvolvimento são geralmente extensas e de difícil manutenção. Dessa forma, é importante que a experiência prática do Onboarding seja apenas uma parte do todo, idealmente apresentando aos novos talentos uma parte específica na qual terão maiores chances de trabalhar nas etapas iniciais de sua atuação. Além disso, nem todo time possui uma documentação pronta a ser filtrada para os propósitos de Onboarding.
 
-As sessões deste capítulo - [Fundamentação](#fundamentação); [Mapa de Dependências](#mapa-de-dependências); [Banco de Tarefas](#banco-de-tarefas) - definem a estrutura do **Alicerce:** o documento base para o processo de Socialização Organizacional proposto pelo **Launchpad**. Sua meta é não somente explicitar como também facilitar a tarefa de identificação do contexto, objetivos, aspectos sócio comportamentais e processos internos relevantes à novos membros da equipe.
+As sessões deste capítulo - [Fundamentação](#fundamentação); [Mapa de Dependências](#mapa-de-dependências); [Documentação Técnica](#documentação-técnica); [Banco de Tarefas](#banco-de-tarefas) - definem a estrutura do **Alicerce:** o documento base para o processo de Socialização Organizacional proposto pelo **Launchpad**. Sua meta é não somente explicitar como também facilitar a tarefa de identificação do contexto, objetivos, aspectos sócio comportamentais e processos internos relevantes à novos membros da equipe.
 
 ### Fundamentação
 
@@ -149,10 +156,6 @@ A seguir expõe-se um exemplo de resposta baseado nesse modelo:
 3. Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso esta alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**. 
 4. Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
 5. Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
-
-As respostas das perguntas 1, 2 e 3 estão relacionadas à "Imersão no Domínio". Explicação ... . Já as perguntas 4 e 5 têm como foco a dimensão "Cultura", pois ... .
-
-[Seria necessário outro exemplo? Talvez um mais simples?]
 
 ### Mapa de Dependências
 
@@ -213,24 +216,12 @@ Segue uma tabela de exemplo:
 
 Parte importante do Alicerce proposto pelo **Launchpad** é a tomada de medidas para facilitar a navegação da base de conhecimentos do time por novos colaboradores. Reiterando, novos colaboradores devem ser apresentados a um filtro do todo, sendo esse idealmente alinhado com o que essas pessoas terão maiores chances de atuar nos momentos iniciais de sua carreira na equipe. Assim, sugere-se a criação e/ou separação dos segiuntes artefatos num local único, de forma a facilitar sua consulta e atualização contínua:
 
-- Documentação técnica
 - Processos
 - Links relevantes no dia a dia
 - Tabela de membros
 
 A título de exemplo, pense em uma equipe internacional focada na criação e manutenção de um e-commerce web. Houve uma recente contratação de um desenvolvedor Frontend que irá substituir o atual membro do time. Dentre as possíveis referências a serem mapeadas, poderíamos considerar:
 
-- Documentação técnica
-  - Lista de tecnologias utilizadas no Frontend:
-    - Next.js
-    - Typescript
-    - Tailwind
-  - Features de domínio:
-    - Otimizações de SEO
-    - Busca e listagem de produtos
-    - Carrinho de compras
-  - Integrações relevantes:
-    - API's de busca e transações
 - Processos
   - SCM
   - Atualização de ambiente
@@ -250,15 +241,28 @@ A título de exemplo, pense em uma equipe internacional focada na criação e ma
 | Carlos Lima     | Engenheiro DevOps                         | carlos.lima@email.com     | Índia              | GMT+5:30 |
 | Luisa Fernandes | Designer UX/UI                            | luisa.fernandes@email.com | Austrália (Sydney) | GMT+10   |
 
+### Documentação Técnica
+
+- Exemplo de itens a serem considerados na documentação técnica
+  - Lista de tecnologias utilizadas no Frontend:
+    - Next.js
+    - Typescript
+    - Tailwind
+  - Features de domínio:
+    - Otimizações de SEO
+    - Busca e listagem de produtos
+    - Carrinho de compras
+  - Integrações relevantes:
+    - API's de busca e transações
 
 ### Banco de tarefas
 
 Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua. Sua elaboração é feita através da separação de atividades, idealmente pré-refinadas, que foram identificadas com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. Tarefas candidatas incluem, mas não estão limitadas a:
 
 - **Resolução de débitos técnicos através da refatoração:**
-  - Reduzir duplicidade de código: tratamento de código duplicado através da criação de métodos ou classes utilitárias que encapsulem a lógica repetida.
-  - Modularização e simplificação de métodos: dividir funções longas em partes menores, idealmente especializadas na resolução de uma única parte do problema.
-  - Redução de acoplamento: identificar e remover dependências desnecessárias entre classes e módulos utilizando, por exemplo, práticas como injeção de dependências ou até mesmo a substituição de instâncias diretas de classes por interfaces mais fáceis de serem substituídas sob demanda.
+  - Reduzir duplicidade de código : tratamento de código duplicado através da criação de métodos ou classes utilitárias que encapsulem a lógica repetida.
+  - Modularização e simplificação de métodos : dividir funções longas em partes menores, idealmente especializadas na resolução de uma única parte do problema.
+  - Redução de acoplamento : identificar e remover dependências desnecessárias entre classes e módulos utilizando, por exemplo, práticas como injeção de dependências ou até mesmo a substituição de instâncias diretas de classes por interfaces mais fáceis de serem substituídas sob demanda.
 - **Revisão e melhoria da suíte de testes implementada:**
   - Em projetos que fazem uso de testes, esses são um valioso mapa dos requisitos de negócio e problemas técnicos que o domínio da aplicação procura solucionar. Dessa forma, trabalhar na manutenção e criação de testes tende a oferecer uma visão abrangente das funcionalidades do sistema, auxiliando novos colaboradores a compreender o contexto em que estão sendo inseridos.
 - **Contribuições para a documentação do time:**
@@ -286,7 +290,7 @@ Responsabilidades:
 - Boas-Vindas: 
   - Realizar sessões de boas-vindas e introdução ao contexto do time, valores e objetivos.
 - Coordenação de Atividades: 
-  - Organizar e coordenar atividades de integração, como almoços em grupo e eventos de team building.
+  - Organizar e coordenar atividades de integração, como dinâmicas em grupo e eventos de team building.
 - Orientação Inicial: 
   - Fornecer informações básicas sobre as políticas da empresa e/ou equipe, regras de segurança e procedimentos operacionais.
 
@@ -304,6 +308,10 @@ Responsabilidades:
   - Fornecer feedback construtivo e orientar sobre o desempenho do novo colaborador.
 - Facilitar a Integração do recém chegado nos círculos sociais da equipe: 
   - Ser a ponte entre o novo membro e a equipe, facilitando a construção de relações interpessoais.
+- Manejamento de expectativas:
+  - ...
+
+
 
 ### Parceiro
 
