@@ -23,6 +23,7 @@
     - [Anfitrião de Integração](#anfitrião-de-integração)
     - [Mentor](#mentor)
     - [Parceiro](#parceiro)
+    - [Gerenciamento de expectativa](#gerenciamento-de-expectativa)
   - [Capítulo 4: Execução](#capítulo-4-execução)
     - [Implementação do Processo](#implementação-do-processo)
       - [**Integração**](#integração-1)
@@ -341,7 +342,7 @@ IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem toma
 
 ## Capítulo 3: Envolvimento dos Atores
 
-Neste capítulo tanto se identifica quanto se descreve as diferentes figuras envolvidas no processo de Socialização Organizacional de desenvolvedores, assim como suas respectivas responsabilidades.
+Neste capítulo tanto se identifica quanto se descreve as diferentes figuras envolvidas no processo de Socialização Organizacional de desenvolvedores, assim como suas respectivas responsabilidades e encargos coletivos.
 
 ### Anfitrião de Integração
 
@@ -358,7 +359,7 @@ Tem como função garantir que o novo colaborador tenha uma recepção calorosa 
 
 ### Mentor
 
-Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding. Idealmente, deve ser uma figura exemplar no que tange ao seu comprometimento com os valores essenciais da equipe.
+Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding. Idealmente, deve ser uma figura exemplar no que tange ao seu comprometimento com os valores essenciais da equipe. 
 
 **Responsabilidades:**
 
@@ -370,8 +371,6 @@ Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo c
   - Fornecer feedback construtivo e orientar sobre o desempenho do novo colaborador.
 - Facilitar a Integração do recém chegado nos círculos sociais da equipe: 
   - Ser a ponte entre o novo membro e a equipe, facilitando a construção de relações interpessoais.
-- Manejamento de expectativas:
-  - ...
 
 ### Parceiro
 
@@ -383,6 +382,36 @@ Membros do time que provêm suporte secundário à pessoas sendo submetidas ao p
   - Fornecer suporte em períodos curtos e específicos, ajudando o novo colaborador a resolver dúvidas imediatas e problemas pontuais.
 - Treinamento específico: 
   - Conduzir sessões de treinamento. Exemplo: workshops focados nas tecnologias e processos específicos do domínio em que o time atua.
+
+### Gerenciamento de expectativa
+
+Independente do papel exercido por membros do time que auxiliam no processo de Onboarding, é importante que tenham em mente o seguinte dever, partilhado entre todos envolvidos no processo - **Gerenciamento de expectativas**. Inicialmente, cabe ao Mentor, junto à liderança do time, definir expectativas realistas nos seguintes pontos:
+- **Escopo do trabalho:**
+  - Estabelecer que o nível de complexidade e impacto esperado irá aumentar de forma gradual e de acordo com a familiarização da pessoa com o sistema.
+  - Clarificar quais partes do projeto o novo colaborador estará mais envolvido inicialmente, como módulos específicos ou tipos de problemas a serem resolvidos.
+- **Desempenho:**
+  - Velocidade de Aprendizado: Espera-se que novos colaboradores levem um tempo para entender o contexto, sistema e processos internos. O processo de aprendizado leva tempo e isso é normal e desejável.
+  - Volume de Trabalho Inicial: Nos primeiros meses, o foco estará mais na aprendizagem e menos na entrega de grandes volumes de trabalho.
+  - Qualidade vs. Quantidade: A qualidade do trabalho entregue é mais importante que a quantidade durante o período de Onboarding.
+- **Comunicação:**
+  - Qual etiqueta e/ou boas práticas de comunicação devem ser respeitadas.
+  - Qual o nível de integração social desejado.
+  - Quais reuniões e dinâmicas de equipe são vistas como importantes, assim como grau esperado de participação nesses momentos. 
+- **Hierarquia:**
+  - Estrutura hierárquica a ser respeitada (caso exista), assim como papel de cada figura envolvida.
+  - Quando problemas devem ser escalados e quais as linhas de comunicação propícias nesses casos.
+ 
+Após esse momento inicial, cabe aos atores envolvidos no processo de Onboarding transmitir essas informações no intuito de se reduzir o estresse comum ao contexto de incerteza e adequação ao novo em que recém-chegados se encontram. Estudos [[8]](#8)[[9]](#9) destacam que essa transparência é um fator relevante pare evitar equívocos comuns como os descritos abaixo:
+- “Devo fazer tudo sozinho para que meu gerente tenha uma boa impressão de mim.”
+- “Devo ser a pessoa que resolve qualquer bug/demanda que encontrar. Além disso, eu devo começar a resolvê-lo imediatamente, mesmo que não tenha tempo para isso.”
+
+Transparência quanto à expectativas ameniza incertezas e estresse à medida que auxilia na compreensão do que se é esperados. Dentre as diferentes formas de repasse de expectativas a serem praticadas, tem-se:
+
+- Discussões abertas em momentos propícios (reuniões "one on one").
+- Revisões periódicas do progresso da pessoa sendo introduzida à organização.
+- Documentação de planos de curto e longo prazo quanto a resultados estratégicos esperados do time.
+
+Tais práticas geram transparência e comunicação clara de forma a estabelecer um ambiente propício à aprendizagem. O resultado é uma assimilação mais coesa e menos dispendiosa de um novo indivíduo à equipe, contribuindo, em última análise, para uma sensação de segurança psicológica e redução de incertezas.
 
 ## Capítulo 4: Execução
 
@@ -446,4 +475,10 @@ If they refined or are in the process or proposing solutions, include as a neces
   -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
 - #### [7] 
   - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
+- #### [8]
+  - M Ronald Buckley, Donald B Fedor, John G Veres, Danielle S Wiese, and
+  Shawn M Carraher. Investigating newcomer expectations and job-related outcomes. Journal of Applied Psychology, 83(3):452, 1998.
+- #### [9]
+  -  Andrew Begel and Beth Simon. Struggles of new college graduates in their first
+  software development job. In Proceedings of the 39th SIGCSE technical symposium on  Computer science education, pages 226–230, 2008.
 - [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
