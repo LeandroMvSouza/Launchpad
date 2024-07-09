@@ -25,10 +25,11 @@
     - [Parceiro](#parceiro)
     - [Gerenciamento de expectativa](#gerenciamento-de-expectativa)
   - [Capítulo 4: Execução](#capítulo-4-execução)
-    - [Implementação do Processo](#implementação-do-processo)
-      - [**Integração**](#integração-1)
-      - [**Cultura**](#cultura-1)
-      - [**Imersão no domínio e tecnologia**](#imersão-no-domínio-e-tecnologia)
+    - [**Integração**](#integração-1)
+    - [**Imersão no domínio e tecnologia**](#imersão-no-domínio-e-tecnologia)
+      - [Incunbências](#incunbências)
+      - [Trabalhos paralelos](#trabalhos-paralelos)
+    - [**Cultura**](#cultura-1)
   - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
     - [Avaliação e Feedback](#avaliação-e-feedback)
   - [Conclusão](#conclusão)
@@ -170,8 +171,8 @@ A seguir expõe-se um exemplo de resposta baseado nesse modelo:
 O Mapa de Dependências tem como função detalhar as necessidades logísticas, legais, tecnológicas e de acesso que novos colaboradores devem atender para começar a contribuir. Ele está dividido nas sessões:
 
 - [Compliance](#compliance)
-- [Acessos necessários e procedimentos de requisição](#acessos-necessários-e-procedimentos-de-requisição)
-- [Referências para consulta sob demanda](#referência-para-consulta-sob-demanda)
+- [Acessos necessários e procedimentos de requisição](#acessos-e-procedimentos-de-requisição)
+- [Referências para consulta sob demanda](#referências-para-consulta-sob-demanda)
 
 #### **Compliance**
 
@@ -320,7 +321,7 @@ Exemplo de itens a serem considerados na documentação técnica
 
 ### Banco de tarefas
 
-Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua, assim como nas tecnologias utilizadas no projeto. Sua elaboração é feita através da separação de encargos, idealmente pré-refinados, que foram identificados com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. Tarefas candidatas incluem, mas não estão limitadas a:
+Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua, assim como nas tecnologias utilizadas no projeto. Sua elaboração é feita através da separação de encargos, idealmente pré-refinados, que foram identificados com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. De forma a facilitar a atribuição futura dessas atividades, seu nível de complexidade deve ser expresso de alguma maneira. Por simplicidade, recomenda-se uma prática comum, com o uso da sequência de fibonnaci (1,2,3,5,8,...). Tarefas candidatas incluem, mas não estão limitadas a:
 
 - **Resolução de débitos técnicos através da refatoração:**
   - Reduzir duplicidade de código : tratamento de código duplicado através da criação de métodos ou classes utilitárias que encapsulam a lógica repetida.
@@ -411,35 +412,49 @@ Transparência quanto à expectativas ameniza incertezas e estresse à medida qu
 - Revisões periódicas do progresso da pessoa sendo introduzida à organização.
 - Documentação de planos de curto e longo prazo quanto a resultados estratégicos esperados do time.
 
-Tais práticas geram transparência e comunicação clara de forma a estabelecer um ambiente propício à aprendizagem. O resultado é uma assimilação mais coesa e menos dispendiosa de um novo indivíduo à equipe, contribuindo, em última análise, para uma sensação de segurança psicológica e redução de incertezas.
+Tais práticas geram transparência e comunicação clara de forma a estabelecer um ambiente propício à aprendizagem. O resultado é uma assimilação mais coesa, contribuindo, em última análise, para uma sensação de segurança psicológica e redução de incertezas.
 
 ## Capítulo 4: Execução
 
-### Implementação do Processo
-- Detalhar a execução; separação do modelo em partes conceituais delimitadas abaixo.
+A execução da socialização organizacional proposta está separada em três momentos, os quais tem relação direta com as ["Dimensões do Onboarding"](#dimensões-do-onboarding) expostas no capítulo 1:
+- [Integração](#integração-1)
+- [Cultura](#cultura-1)
+- [Imersão no domínio e tencologia](#imersão-no-domínio-e-tecnologia)
 
-#### **Integração**
-Objetivos - retenção; valorização; acolhimento.
+### **Integração**
+
+- **Objetivos** - Retenção; valorização; acolhimento.
+- **Principal ator** - [Anfitrião de integração](#anfitrião-de-integração).
+- **Timing** - Executado no início do processo, com tempo de execução e passos definidos.
 
 Passos bem estabelecidos para introduzir a pessoa à organização, definir o escopo de atuação dessa pessoa e expectativas quanto a seu trabalho, assinalar figuras de apoio adequadas.
 
-#### **Cultura**
-Objetivos - Coesão; propósito
+### **Imersão no domínio e tecnologia**
 
-Mecanismos para promover a cultura desejada e manter a cultura desejada.
+- **Objetivos** - Eficácia; redução do tempo para produtividade; engajamento.
+- **Principais atores** - [Mentor](#mentor) e [Parceiro](#parceiro)
+- **Timing** - Executado após a fase de integração, com tempo de execução e passos maleáveis.
 
-Mapear os diferentes tipos de conflitos de interesse levantados na Monografia I. Tentar encontrar formas de solucioná-los.
+Nesta seção são definidos mecanismos e processos que auxiliam a introduzir com rapidez e propósito novos colaboradores ao contexto do time, às demandas que tipicamente irão realizar na equipe. A imersão no domínio e tecnologia é o foco principal do processo de Onboarding proposto no **Launchpad** e, dessa forma, é aquele que irá demandar mais, tanto do ponto de vista de tempo quanto de dedicação dos atores envolvidos. 
 
-#### **Imersão no domínio e tecnologia**
-Objetivos - Eficácia; redução do tempo para produtividade
+Um dos quesitos chaves para a organização dessa fase é a **ênfase naquilo que é necessário** para que um recém-contratado ou recém-chegado comece a trabalhar. O principal auxílio para se identificar esses conhecimentos vitais é o Alicerce, com destaque para a seção de [Fundamentação](#fundamentação). Uma equipe, uma vez munida dessas informações, estará apta a planejar uma etapa de imersão personalizada aos desafios técnicos e de negócio específicos de seu contexto.
 
-Mecanismos para introduzir com rapidez e propósito localizado o novo colaborador à resolução de problemas da equipe.
+A maior unidade de tempo utilizada no **Launchpad** são semanas e encoraja-se que atividades sejam planejadas com isso em mente. Dependendo da preferência do time, tarefas de imersão podem ser planejadas com antecedência pelo mentor e/ou parceiros, ou até mesmo de semana em semana de acordo com o progresso da pessoa sendo integrada. Caso tenha elaborado um banco de tarefas, procure fazer uso dos números de complexidade associados a cada atividade, estabelecendo um número máximo a ser contemplado ao longo de sete dias.
 
-Atividades:
+Outro ponto a se ter em mente ao planejar atividades é a necessidade de variação. É tentador realizar, principalmente nos períodos iniciais de Onboarding, a exposição exaustiva de informações acerca do projeto, desde seus padrões técnicos a regras de negócio. No entanto, abordagens passo a passo tendem a ser mais efetivas do ponto de vista de aprendizado e motivação, principalmente quando se intercala teoria e prática.
+
+#### Incunbências
+
+Primeira categoria de atividades.
+
+- Refinamento de tarefas do backlog
+
+#### Trabalhos paralelos
+
+Segunda categoria de atividades. Como seu nome sugere, são encargos a serem realizados paralelamente a incunbências, tendo como função principal a prestação de apoio e acompanhamento do recém-chegado.
+
 - Reuniões 1:1 com o Mentor
 - Pair-programming com parceiros (entrosamento)
-- Incluir novo contribuidor o mais cedo possível no processo de revisão de código
-- Refinamento de tarefas do backlog
 
 Alterar entre atividades investigativas ou de conhecimento da aplicação e atividades práticas por natureza.
 
@@ -450,6 +465,15 @@ Information should be shared in bite sized pieces.
 Encourage them to ask questions to and interact with partners and other team members.
 
 If they refined or are in the process or proposing solutions, include as a necessary step the review of this solution by peers. This could happen in 1:1 sessions or in periodic meetings.
+
+### **Cultura**
+- **Objetivos** - Coesão; propósito.
+- **Principais atores** - Todo o time.
+- **Timing** - Executada durante todo o processo, sendo uma dimensão transversal às demais.
+
+Mecanismos para promover a cultura desejada e manter a cultura desejada.
+
+Mapear os diferentes tipos de conflitos de interesse levantados na Monografia I. Tentar encontrar formas de solucioná-los.
 
 ## Capítulo 5: Iteração e Melhoria Contínua
 
