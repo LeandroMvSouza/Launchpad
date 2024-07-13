@@ -343,31 +343,35 @@ IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem toma
 
 ## Capítulo 3: Envolvimento dos Atores
 
-Neste capítulo tanto se identifica quanto se descreve as diferentes figuras envolvidas no processo de Socialização Organizacional de desenvolvedores, assim como suas respectivas responsabilidades e encargos coletivos.
+Neste capítulo tanto se identifica quanto se descreve as diferentes figuras envolvidas no processo de Socialização Organizacional de desenvolvedores, assim como suas respectivas responsabilidades e encargos coletivos para com pessoas sendo submetidas ao processo de Onboarding.
 
 ### Anfitrião de Integração
 
-Tem como função garantir que o novo colaborador tenha uma recepção calorosa e informativa, promovendo uma primeira impressão positiva e facilitando a adaptação inicial.
+Sua função é garantir que o novo colaborador tenha uma recepção calorosa e informativa, promovendo uma primeira impressão positiva e facilitando a adaptação inicial. O escopo de suas ações deve ser tanto garantir quanto repassar a novos funcionários aquilo que precisam para iniciar seu trabalho no time.
 
 **Responsabilidades:**
 
 - Boas-Vindas: 
-  - Realizar sessões de boas-vindas e introdução ao contexto do time, valores e objetivos.
+  - Realizar sessões de boas-vindas, seja 1:1 ou com demais membros da equipe, procurando repassar de forma resumida seu contexto, valores e objetivos.
+- Orientação Inicial: 
+  - Fornecer informações básicas sobre as políticas da empresa e/ou equipe, regras de segurança e procedimentos operacionais de acordo com os itens de [Compliance](#compliance) vigentes.
 - Coordenação de Atividades: 
   - Organizar e coordenar atividades de integração, como dinâmicas em grupo e eventos de team building.
-- Orientação Inicial: 
-  - Fornecer informações básicas sobre as políticas da empresa e/ou equipe, regras de segurança e procedimentos operacionais.
+- Mediar Conflitos:
+  - Atuar como mediador em potenciais conflitos que possam surgir durante o período de adaptação, ajudando a resolver desentendimentos e facilitando a comunicação entre o novo colaborador e a equipe.
 
 ### Mentor
 
-Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador ao longo de todo Onboarding. Idealmente, deve ser uma figura exemplar no que tange ao seu comprometimento com os valores essenciais da equipe. 
+Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador, seja durante períodos específicos ou todo o processo de Onboarding. Idealmente, deve ser uma figura exemplar no que tange tanto ao seu comprometimento com os valores essenciais da equipe quanto ao seu conhecimento do domínio e tecnologia aplicados no time. 
 
 **Responsabilidades:**
 
+- Orientação Técnica:
+  - Auxiliar no entendimento das ferramentas e tecnologias utilizadas pela equipe.
 - Acompanhamento Individualizado: 
-  - Oferecer suporte contínuo ao novo colaborador durante o processo de onboarding.
-- Orientação Técnica: 
-  - Auxiliar na compreensão das ferramentas, processos e tecnologias utilizadas pela equipe.
+  - Oferecer suporte contínuo ao novo colaborador, procurando entender assim como solucionar dificuldades enfrentadas por recém-chegados.
+- Sugestão ou atribuição de [incunbências](#incunbências):
+  - Como a pessoa que irá acompanhar de perto o progresso do novo integrante, o mentor estará mais apto a auxiliar na escolha de tarefas a serem repassadas a esses indivíduos.
 - Feedback Regular: 
   - Fornecer feedback construtivo e orientar sobre o desempenho do novo colaborador.
 - Facilitar a Integração do recém chegado nos círculos sociais da equipe: 
@@ -427,7 +431,32 @@ A execução da socialização organizacional proposta está separada em três m
 - **Principal ator** - [Anfitrião de integração](#anfitrião-de-integração).
 - **Timing** - Executado no início do processo, com tempo de execução e passos definidos.
 
-Passos bem estabelecidos para introduzir a pessoa à organização, definir o escopo de atuação dessa pessoa e expectativas quanto a seu trabalho, assinalar figuras de apoio adequadas.
+Fase inicial do processo de Onboarding proposto pelo **Launchpad**, a integração também é a mais direta uma vez que envolve objetivos bem definidos e padronizáveis. Nela o [anfitrião de integração](#anfitrião-de-integração) deve repassar ao novo colaborador tudo aquilo que foi definido como necessário para que essa pessoa comece a produzir e se ajustar ao time. O principal artefato do Alicerce que auxilia nessa identificação é o [Mapa de dependências](#mapa-de-dependências). Dentre as três fases propostas ela deve ser a mais curta, recomendando-se não mais que uma semana para sua realização.
+
+O resultado almejado é que, ao final deste momento, o novo integrante tenha ciência:
+- De quem são seus colegas de trabalho - nome; contato; horas de trabalho; área de especialidade; etc.
+- Quem será seu mentor e quais são os parceiros que prestarão suporte durante o processo de Onboarding.
+- De quais os ritos ou reuniões ela deve participar, assim como seus dias de execução e horários.
+- De canais de suporte disponíveis a elas, quais pessoas ela pode contatar em caso de problemas sejam pessoais ou no âmbito do trabalho.
+- Dos itens de compliance relevantes ao time, como obrigações legais e contratuais, além dos recursos necessários à produção.
+- De como realizar o setup de seu ambiente de trabalho.
+
+Quanto a etapas desta fase, recomenda-se:
+
+1. Boas-vindas onde o anfitrião apresenta tanto o time quanto seu contexto de operação, valores e objetivos.
+2. Sessão de setup de ambiente onde, seja com auxílio de documentação do processo ou integrantes do time, o novo colaborador é auxiliado na tarefa de configurar seu ambiente de trabalho para produção. Isso inclui, mas não está limitado a configurações de:
+   1. e-mails e/ou notificações
+   2. SCM e repositórios de código
+   3. ferramentas de desenvolvimento (IDE, plugins, etc.)
+   4. bancos de dados e servidores
+5. Introdução do novo colaborador à sua pessoa mentora, mediada pelo anfitrião.
+6. Revisão dos itens de compliance, incluindo um overview das políticas de segurança, privacidade de dados e outras normas relevantes ao time e à empresa.
+7. Introdução e/ou repasse dos processos e procedimentos da empresa aplicáveis ao contexto de trabalho do time. Por exemplo:
+   1. Metodologias empregadas (scrum; kanban; etc)
+   2. Políticas de comunicação interna
+   3. Fluxos de trabalho e aprovação de tarefas, desde a atribuição até a conclusão.
+
+Paralelo à execução dessas etapas, cabe ao anfitrião organizar a integração do recém-chegado nos processos internos. Ele deve, por exemplo, incluir a recente admissão no calendário de ritos e reuniões; garantir/requisitar acessos a softwares e hardwares necessários; manter atualizado o mapa de dependências; etc.
 
 ### **Imersão no domínio e tecnologia**
 
