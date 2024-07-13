@@ -28,7 +28,10 @@
     - [**Integração**](#integração-1)
     - [**Imersão no domínio e tecnologia**](#imersão-no-domínio-e-tecnologia)
       - [Incunbências](#incunbências)
-      - [Trabalhos paralelos](#trabalhos-paralelos)
+      - [Aprendizagem entre pares](#aprendizagem-entre-pares)
+      - [Entrega de ponta a ponta](#entrega-de-ponta-a-ponta)
+      - [Atividades paralelas](#atividades-paralelas)
+      - [Progresso desejado](#progresso-desejado)
     - [**Cultura**](#cultura-1)
   - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
     - [Avaliação e Feedback](#avaliação-e-feedback)
@@ -379,7 +382,7 @@ Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo c
 
 ### Parceiro
 
-Membros do time que provêm suporte secundário à pessoas sendo submetidas ao processo de Onboarding. Podem ou não ter responsabilidades semelhantes à de mentores. São figuras de apoio, dando auxílio momentâneo em casos de indisponibilidade do Mentor.
+Todo membro do time pode ser considerado um parceiro, sendo que a função deste papel é prover suporte secundário à pessoas sendo submetidas ao processo de Onboarding. Elas podem ou não ter responsabilidades semelhantes à de mentores, mas sua incunbência e tempo de dedicação direta para com recém-chegados é sempre limitado. Apesar de serem figuras de apoio, dando auxílio momentâneo quando necessário, elas têm papel importante em atividades que envolvem aprendizado entre pares.
 
 **Responsabilidades:**
 
@@ -420,10 +423,10 @@ Tais práticas geram transparência e comunicação clara de forma a estabelecer
 
 ## Capítulo 4: Execução
 
-A execução da socialização organizacional proposta está separada em três momentos, os quais tem relação direta com as ["Dimensões do Onboarding"](#dimensões-do-onboarding) expostas no capítulo 1:
+Neste capítulo são expotas diretrizes e objetivos almejados pela socialização organizacional proposta no **Launchpad**. Sua execução está separada em três momentos, os quais têm relação direta com as ["Dimensões do Onboarding"](#dimensões-do-onboarding) expostas no capítulo 1:
 - [Integração](#integração-1)
-- [Cultura](#cultura-1)
 - [Imersão no domínio e tencologia](#imersão-no-domínio-e-tecnologia)
+- [Cultura](#cultura-1)
 
 ### **Integração**
 
@@ -431,7 +434,7 @@ A execução da socialização organizacional proposta está separada em três m
 - **Principal ator** - [Anfitrião de integração](#anfitrião-de-integração).
 - **Timing** - Executado no início do processo, com tempo de execução e passos definidos.
 
-Fase inicial do processo de Onboarding proposto pelo **Launchpad**, a integração também é a mais direta uma vez que envolve objetivos bem definidos e padronizáveis. Nela o [anfitrião de integração](#anfitrião-de-integração) deve repassar ao novo colaborador tudo aquilo que foi definido como necessário para que essa pessoa comece a produzir e se ajustar ao time. O principal artefato do Alicerce que auxilia nessa identificação é o [Mapa de dependências](#mapa-de-dependências). Dentre as três fases propostas ela deve ser a mais curta, recomendando-se não mais que uma semana para sua realização.
+Fase inicial do processo, a integração também é a mais direta uma vez que envolve objetivos bem definidos e padronizáveis. Nela o [anfitrião de integração](#anfitrião-de-integração) deve repassar ao novo colaborador tudo aquilo que foi definido como necessário para que essa pessoa comece a produzir e se ajustar ao time. O principal artefato do Alicerce que auxilia nessa identificação é o [Mapa de dependências](#mapa-de-dependências). Dentre as três fases propostas ela deve ser a mais curta, recomendando-se não mais que uma semana para sua realização.
 
 O resultado almejado é que, ao final deste momento, o novo integrante tenha ciência:
 - De quem são seus colegas de trabalho - nome; contato; horas de trabalho; área de especialidade; etc.
@@ -464,36 +467,42 @@ Paralelo à execução dessas etapas, cabe ao anfitrião organizar a integraçã
 - **Principais atores** - [Mentor](#mentor) e [Parceiro](#parceiro)
 - **Timing** - Executado após a fase de integração, com tempo de execução e passos maleáveis.
 
-Nesta seção são definidos mecanismos e processos que auxiliam a introduzir com rapidez e propósito novos colaboradores ao contexto do time, às demandas que tipicamente irão realizar na equipe. A imersão no domínio e tecnologia é o foco principal do processo de Onboarding proposto no **Launchpad** e, dessa forma, é aquele que irá demandar mais, tanto do ponto de vista de tempo quanto de dedicação dos atores envolvidos. 
+A imersão no domínio e tecnologia é o foco principal do processo de Onboarding proposto no **Launchpad** e, dessa forma, é aquele que irá demandar mais, tanto do ponto de vista de tempo quanto de dedicação dos atores envolvidos. Esta etapa está relacionada a processos que auxiliam na introdução, com rapidez e propósito, de novos colaboradores ao contexto do time e demandas que tipicamente irão realizar na equipe.
 
 Um dos quesitos chaves para a organização dessa fase é a **ênfase naquilo que é necessário** para que um recém-contratado ou recém-chegado comece a trabalhar. O principal auxílio para se identificar esses conhecimentos vitais é o Alicerce, com destaque para a seção de [Fundamentação](#fundamentação). Uma equipe, uma vez munida dessas informações, estará apta a planejar uma etapa de imersão personalizada aos desafios técnicos e de negócio específicos de seu contexto.
 
 A maior unidade de tempo utilizada no **Launchpad** são semanas e encoraja-se que atividades sejam planejadas com isso em mente. Dependendo da preferência do time, tarefas de imersão podem ser planejadas com antecedência pelo mentor e/ou parceiros, ou até mesmo de semana em semana de acordo com o progresso da pessoa sendo integrada. Caso tenha elaborado um banco de tarefas, procure fazer uso dos números de complexidade associados a cada atividade, estabelecendo um número máximo a ser contemplado ao longo de sete dias.
 
-Outro ponto a se ter em mente ao planejar atividades é a necessidade de variação. É tentador realizar, principalmente nos períodos iniciais de Onboarding, a exposição exaustiva de informações acerca do projeto, desde seus padrões técnicos a regras de negócio. No entanto, abordagens passo a passo tendem a ser mais efetivas do ponto de vista de aprendizado e motivação, principalmente quando se intercala teoria e prática.
+Outro ponto a se ter em mente ao planejar atividades é a necessidade de variação. É tentador realizar, principalmente nos períodos iniciais de Onboarding, a exposição exaustiva de informações acerca do projeto, desde seus padrões técnicos a regras de negócio. No entanto, abordagens passo a passo tendem a ser mais efetivas do ponto de vista de aprendizado e motivação, principalmente quando se intercala teoria e prática. Para facilitar o ato de planejar atividades variadas, o **Launchpad** sugere o uso de um [banco de tarefas](#banco-de-tarefas), cujas atividades podem ser separadas nas seguintes categorias.
 
 #### Incunbências
 
-Primeira categoria de atividades.
+Primeira categoria de atividades a serem realizadas na fase de imersão na tecnologia e domínio, as incunbências são tarefas que devem, ao final de sua realização, gerar algum tipo de resultado tangível - documentação; funcionalidade; refinamento; etc. Incunbências têm caráter variado, podendo incluir atividades teóricas como a leitura de [documentos técnicos](#documentação-técnica) e suíte de testes, além de práticas como a correção de bugs mapeados e refatoração de sessões do código.
 
-- Refinamento de tarefas do backlog
+#### Aprendizagem entre pares
 
-#### Trabalhos paralelos
+Segunda categoria de atividades, essas tarefas focam na colaboração e aprendizado direto com o mentor e parceiros. O intuito é promover uma troca de conhecimento constante entre os envolvidos, além de introduzir o novo colaborador às pessoas com quem irá trabalhar. O processo de Onboarding é uma atividade necessariamente humana e, para que seja bem sucedida, necessita de interação entre atores e recrutas. Assim,recomenda-se que esses indivíduos sejam encorajados a levantar perguntas sempre que necessário. O diálogo deve acontecer de forma aberta seja em canais de discussão internos, ritos, treinamentos ou reuniões 1:1. Idealmente, ao final do processo de Onboarding o colaborador deve ter interagido e aprendido com todos os membros da equipe.
 
-Segunda categoria de atividades. Como seu nome sugere, são encargos a serem realizados paralelamente a incunbências, tendo como função principal a prestação de apoio e acompanhamento do recém-chegado.
+#### Entrega de ponta a ponta
 
-- Reuniões 1:1 com o Mentor
-- Pair-programming com parceiros (entrosamento)
+Terceira categoria de atividades, entregas ponta a ponta são, necessariamente, tarefas práticas. Elas envolvem a resolução de demandas do time do início até a liberação em produção, incluindo ou não o suporte de parceiros e mentor. Dessa forma, variáveis relacionadas a entregas ponta a ponta são um indicativo relevante em relação ao nível de imersão na tecnologia e domínio de uma pessoa sendo submetida ao processo de Onboarding. Dentre essas variáveis temos:
+- Nível de suporte requisitado de pares
+- Nível de complexidade da tarefa entregue
+- Velocidade de entrega
+- Métricas de qualidade relacionadas a essa entrega
+  - Cobertura de testes
+  - Regressões causadas pela entrega (caso ocorram)
+  - Feedback do cliente ou usuário final
 
-Alterar entre atividades investigativas ou de conhecimento da aplicação e atividades práticas por natureza.
+#### Atividades paralelas
 
-Make them learn at the start of the week. Talk with them on wednesday. As one of the topics, discuss a task for them to work on. Align with team and possibly assign this to onboarder.
+Quarta e última categoria, atividades paralelas têm triplo intuito - a prestação de apoio, acompanhamento do progresso e promoção de segurança psicológica ao recém-chegado. O principal exemplo são reuniões 1:1 entre mentor e orientando, onde deve ser praticado o feedback contínuo, construtivo e propositivo. Cabe ao mentor identificar pontos fortes do orientando e sugerir melhorias onde necessário. O mentor também pode ajudar o orientando a identificar áreas de desenvolvimento dentro do projeto e seus recursos, propondo, por exemplo, treinamentos, recomendação de cursos, livros, ou a participação em projetos específicos que ofereçam aprendizado relevante.
 
-Information should be shared in bite sized pieces.
+#### Progresso desejado
 
-Encourage them to ask questions to and interact with partners and other team members.
+Como atividades paralelas estão relacionadas a acompanhamento, idealmente devem acontecer de forma periódica (ex: uma vez a cada semana ou a cada duas semanas) e interferir o menos possível com as demais atividades a serem realizadas pelo orientando. Ademais, por simplicidade, pode-se definir que um planejamento de tarefas está variado caso inclua, a cada semana, ao menos duas categorias distintas entre as supracitadas.
 
-If they refined or are in the process or proposing solutions, include as a necessary step the review of this solution by peers. This could happen in 1:1 sessions or in periodic meetings.
+Nas fases iniciais do Onboarding, espera-se que a categoria de atividades realizadas pelo novo colaborador esteja focada na aprendizagem entre pares, com entregas esporádicas de incunbências. Com o acréscimo de conforto, confiança e conhecimento do projeto e suas peculiaridades, é comum que atividades de aprendizagem entre pares ocorram com menor frequência e incunbências sejam entregues com agilidade. Assim, abra-se caminho para tarefas mais envolvidas como entregas ponta a ponta, as quais tendem a demandar mais do colaborador uma vez que necessitam de um conhecimento holístico das tecnologias empregadas e do domínio específico à aplicação do time. Ao final do processo, é esperado que a pessoa esteja integrada e capaz de realizar, com consistência e menos suporte, entregas dessa natureza.
 
 ### **Cultura**
 - **Objetivos** - Coesão; propósito.
