@@ -27,7 +27,7 @@
   - [Capítulo 4: Execução](#capítulo-4-execução)
     - [**Integração**](#integração-1)
     - [**Imersão no domínio e tecnologia**](#imersão-no-domínio-e-tecnologia)
-      - [Incunbências](#incunbências)
+      - [Incumbências](#incumbências)
       - [Aprendizagem entre pares](#aprendizagem-entre-pares)
       - [Entrega de ponta a ponta](#entrega-de-ponta-a-ponta)
       - [Atividades paralelas](#atividades-paralelas)
@@ -72,7 +72,7 @@ Porém, esses benefícios pressupõem não somente estabelecer uma base de conhe
 ### Dimensões do Onboarding
 
 Como forma de facilitar a visualização geral do processo, o **Launchpad** divide o Onboarding em dimensões:
-- [Integração](#integração); 
+- [Integração](#integração);
 - [Cultura](#cultura);
 - [Imersão no Domínio](#imersão-no-domínio);
 - [Imersão na Tecnologia](#imersão-na-tecnologia).
@@ -86,7 +86,7 @@ Pode ser entendida como o conjunto de passos que visam promover a rápida e efic
 Como exemplos de passos relacionados à integração, cita-se:
 
 1. **Sessões de Boas Vindas:** Momentos focados em introduzir novos colaboradores ao contexto do time, seus valores e objetivos. Visa fornecer informações claras sobre as responsabilidades e expectativas acerca da atuação desses indivíduos. Tais sessões tendem a ter uma estrutura fixa e pré-elaborada.
-2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida. 
+2. **Acolhimento Personalizado:** Alguns times optam por receber novos membros com uma abordagem personalizada, seja ao perfil daqueles que estão chegando ou dos comportamentos que o time deseja promover nessas pessoas. Nesses casos, não se segue uma estrutura pré-definida.
 3. **Atividades de "Team Building":** Atos de socialização entre os membros da equipe, como almoços em grupo, jogos colaborativos ou outras atividades que estimulem o relacionamento interpessoal e o espírito de equipe.
 
 No que tange a escopo e tempo, entre as dimensões do Onboarding propostas, Integração é a única que deve ter uma janela de tempo de execução mais estrita. Seu foco é proporcionar uma ótima primeira impressão, uma introdução do novo membro à equipe e seu escopo de trabalho.
@@ -95,9 +95,9 @@ No que tange a escopo e tempo, entre as dimensões do Onboarding propostas, Inte
 
 Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[5]](#5). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupõe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[6]](#6).
 
-Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este: 
-- lida com a integridade dos dados financeiros de seus clientes; 
-- assegura a continuidade de operações bancárias sem interrupções ou falhas. 
+Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este:
+- lida com a integridade dos dados financeiros de seus clientes;
+- assegura a continuidade de operações bancárias sem interrupções ou falhas.
 
 Ao longo do tempo, ao promover a qualidade do código a equipe percebeu uma redução de bugs, assim como maior estabilidade do sistema. Através de práticas como revisões de código regulares e testes automatizados, atos estes ativamente encorajados pela liderança do time, o apreço pela qualidade se tornou um valor essencial da equipe.
 
@@ -141,9 +141,9 @@ Enquanto a dimensão anterior foca no negócio e nos impactos que a aplicação 
 
 ## Capítulo 2: Estabelecendo o Alicerce
 
-O **Launchpad** foi desenvolvido a partir da crença de que a documentação é um alicerce para o Onboarding. Quanto mais ampla a gama de processos, valores, requerimentos, padrões arquiteturais e funcionalidades chave documentadas, mais robusto e menos dispendioso será a Socialização Organizacional. 
+O **Launchpad** foi desenvolvido a partir da crença de que a documentação é um alicerce para o Onboarding. Quanto mais ampla a gama de processos, valores, requerimentos, padrões arquiteturais e funcionalidades chave documentadas, mais robusto e menos dispendioso será a Socialização Organizacional.
 
-- Robusto pois a documentação torna tangível e consultável acordos tácitos e decisões relevantes ao contexto de atuação de um time, facilitando não somente o acompanhamento de seu progresso ao longo do tempo como também o entendimento do domínio e cultura da equipe. 
+- Robusto pois a documentação torna tangível e consultável acordos tácitos e decisões relevantes ao contexto de atuação de um time, facilitando não somente o acompanhamento de seu progresso ao longo do tempo como também o entendimento do domínio e cultura da equipe.
 
 - Menos dispendioso pois, independente do contexto, times de desenvolvimento de software lidam com a geração e manutenção de conhecimento. Conhecimento pode ser transitório, seja porque não é mais aplicável ao contexto devido à mudanças do próprio negócio ou por forças externas (ex: mudanças de normas e leis), seja pela rotatividade de funcionários comum ao cenário de implementação e manutenção de software. Além disso, transmiti-lo é um ato que requer tempo e dedicação. Uma documentação organizada para consulta sobre demanda facilita o gerenciamento de conhecimento. Ela reduz os impactos negativos da saída de funcionários ao tornar consultável partes de seu saber. Ela facilita a transmissão de conhecimento de forma assíncrona, diminuindo assim a necessidade de acompanhamento direto de novos funcionários por parte de membros ativos no time, os quais, muitas das vezes, precisam conciliar múltiplas responsabilidades dentro do tempo limitado que possuem para a realização de suas atividades diárias.
 
@@ -165,10 +165,10 @@ Dessa forma, é crucial que se torne explícito, além de documentado, a conjunt
 
 A seguir expõe-se um exemplo de resposta baseado nesse modelo:
 
-1. Como um time de desenvolvimento de software, nossa área de foco é **Front-end**. Atuamos na **criação e manutenção de interfaces web focadas em e-commerce, baseado no design system desenvolvido pela empresa**. 
+1. Como um time de desenvolvimento de software, nossa área de foco é **Front-end**. Atuamos na **criação e manutenção de interfaces web focadas em e-commerce, baseado no design system desenvolvido pela empresa**.
 2. Nesse contexto, temos como objetivos **aprimorar a usabilidade, acessibilidade e experiência de utilização desses sistemas, garantindo consistência visual e funcional com os padrões de design estabelecidos**.
-3. Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso está alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**. 
-4. Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**. 
+3. Esses objetivos agregam valor ao negócio pois **contribuem para aumentar o engajamento dos usuários, melhorar as taxas de conversão e fortalecer a identidade das nossas marcas online**. Isso está alinhado com os seguintes objetivos estratégicos da organização **- aumentar sua presença em mídias digitais e potencializar vendas online**.
+4. Nos esforçamos para alcançar esses objetivos levando em consideração os valores-chave da empresa: **foco no cliente, excelência e inovação**.
 5. Como um time, nossas crenças fundamentais são que **a colaboração e a comunicação eficaz são essenciais para o sucesso, e que o aprendizado contínuo junto à adaptabilidade são cruciais em um ambiente de constante evolução tecnológica**.
 
 ### Mapa de Dependências
@@ -184,7 +184,7 @@ O Mapa de Dependências tem como função detalhar as necessidades logísticas, 
 Conjunto de materiais e recursos destinados a assegurar que novos colaboradores compreendam e sigam as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta sessão. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
 
 - **Obrigações legais e contratuais**:
-  - Código de conduta: 
+  - Código de conduta:
     - Documento que destaca expectativas de comportamento, ética no trabalho assim como diretrizes para resolução de conflitos.
   - Políticas de segurança:
     - Instruções quanto à segurança da informação, incluindo práticas recomendadas para senhas, treinamentos periódicos em cibersegurança, melhores práticas no uso de dispositivos pessoais e do trabalho.
@@ -257,7 +257,7 @@ A título de exemplo, pense em uma equipe internacional focada na criação e ma
 
 ### Documentação Técnica
 
-Esta sessão do Alicerce tem como foco o desenvolvimento e/ou separação dos documentos técnicos relevantes ao contexto de uma pessoa sendo submetida ao processo de Onboarding. O grau de abrangência e granularidade dessa documentação depende principalmente de dois fatores: 
+Esta sessão do Alicerce tem como foco o desenvolvimento e/ou separação dos documentos técnicos relevantes ao contexto de uma pessoa sendo submetida ao processo de Onboarding. O grau de abrangência e granularidade dessa documentação depende principalmente de dois fatores:
 - Do contexto em que o time está inserido;
 - Das partes específicas do todo que compõem uma aplicação ou projeto nas quais um recém-contratado terá mais chances de atuar nas fases iniciais de sua atuação.
 
@@ -265,7 +265,7 @@ A principal ferramenta que auxilia nesse processo de filtragem, de escolha do qu
 
 - Padrões de modelagem de dados, com uma descrição detalhada dos esquemas de banco de dados, tabelas principais e suas relações, incluindo exemplos de consultas comuns utilizadas.
 - Pipelines de Dados: Explicação dos processos de ETL (Extração, Transformação e Carga), com diagramas de fluxo de dados e exemplos de scripts de transformação.
-- Guias de uso para ferramentas relevantes ao processo de análise e formulação de informações a partir dos dados obtidos (bibliotecas, frameworks, etc), incluindo tutoriais e casos exemplo quando possível.
+- Guias de uso para ferramentas relevantes ao processo de análise e formulação de informações a partir dos dados obtidos (bibliotecas, frameworks, etc), incluindo tutoriais e casos exemplo, quando possível.
 
 Já outro time focado na manutenção e extensão de um e-commerce poderia enfatizar itens como:
 
@@ -284,9 +284,9 @@ O **Launchpad**, como um guia, tem caráter propositivo. Dessa forma abaixo enco
   - Event-driven-architecture?
   - Arquitetura de portas e adaptadores (hexagonal)?
 - **Testes e Qualidade de Código:**
-  - Tipos de testes praticados: 
-    - Unitários, 
-    - Integração, 
+  - Tipos de testes praticados:
+    - Unitários,
+    - Integração,
     - End-to-end, etc.
   - Ferramentas e frameworks.
   - Melhores práticas a serem reforçadas durante o processo de escrita e manutenção de testes.
@@ -299,8 +299,8 @@ O **Launchpad**, como um guia, tem caráter propositivo. Dessa forma abaixo enco
   - Processos de code review: Pull Requests, Merge Requests.
   - Ferramenta de revisão de código.
   - Critérios de qualidade a serem considerados:
-    - legibilidade, 
-    - eficiência, 
+    - legibilidade,
+    - eficiência,
     - segurança,
     - padrões de codificação.
 - **Tipos de repositórios utilizado:**
@@ -326,7 +326,7 @@ Exemplo de itens a serem considerados na documentação técnica
 
 ### Banco de tarefas
 
-Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua, assim como nas tecnologias utilizadas no projeto. Sua elaboração é feita através da separação de encargos, idealmente pré-refinados, que foram identificados com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. De forma a facilitar a atribuição futura dessas atividades, seu nível de complexidade deve ser expresso de alguma maneira. Por simplicidade, recomenda-se uma prática comum, com o uso da sequência de fibonnaci (1,2,3,5,8,...). Tarefas candidatas incluem, mas não estão limitadas a:
+Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insumos necessários à imersão do recém-chegado no domínio em que o time atua, assim como nas tecnologias utilizadas no projeto. Sua elaboração é feita através da separação de encargos, idealmente pré-refinados, que foram identificados com um nível de complexidade condizente com o perfil de senioridade do novo colaborador. De forma a facilitar a atribuição futura dessas atividades, seu nível de complexidade deve ser expresso de alguma maneira. Por simplicidade, recomenda-se uma prática comum, com o uso da sequência de Fibonacci (1,2,3,5,8,...). Tarefas candidatas incluem, mas não estão limitadas a:
 
 - **Resolução de débitos técnicos através da refatoração:**
   - Reduzir duplicidade de código : tratamento de código duplicado através da criação de métodos ou classes utilitárias que encapsulam a lógica repetida.
@@ -342,9 +342,6 @@ Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insum
   - "Pair Programming" : diferente de "Codelabs", o "Pair programming" não é uma atividade pré-estruturada. Ela consiste no trabalho conjunto entre o recém-chegado e um desenvolvedor mais experiente na resolução de demandas. Isso não só ajuda no aprendizado de melhores práticas e padrões de codificação do projeto, mas também facilita a transferência de conhecimento tácito, promovendo maior integração na equipe.
   - Revisões de código : a participação ativa nesse processo, tanto como autor quanto como revisor, auxilia na compreensão do código-base e cultura de codificação do time.
 
-<!--
-IMP: Explicite as diferentes formas que os sub-documentos do Alicerce podem tomar. Planilhas; Backlog; Tickets; Stickers; etc. Procure sempre dar uma visão de algo tangível para cada passo do **Launchpad**.
--->
 
 ## Capítulo 3: Envolvimento dos Atores
 
@@ -356,41 +353,41 @@ Sua função é garantir que o novo colaborador tenha uma recepção calorosa e 
 
 **Responsabilidades:**
 
-- Boas-Vindas: 
+- Boas-Vindas:
   - Realizar sessões de boas-vindas, seja 1:1 ou com demais membros da equipe, procurando repassar de forma resumida seu contexto, valores e objetivos.
-- Orientação Inicial: 
+- Orientação Inicial:
   - Fornecer informações básicas sobre as políticas da empresa e/ou equipe, regras de segurança e procedimentos operacionais de acordo com os itens de [Compliance](#compliance) vigentes.
-- Coordenação de Atividades: 
+- Coordenação de Atividades:
   - Organizar e coordenar atividades de integração, como dinâmicas em grupo e eventos de team building.
 - Mediar Conflitos:
   - Atuar como mediador em potenciais conflitos que possam surgir durante o período de adaptação, ajudando a resolver desentendimentos e facilitando a comunicação entre o novo colaborador e a equipe.
 
 ### Mentor
 
-Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador, seja durante períodos específicos ou todo o processo de Onboarding. Idealmente, deve ser uma figura exemplar no que tange tanto ao seu comprometimento com os valores essenciais da equipe quanto ao seu conhecimento do domínio e tecnologia aplicados no time. 
+Pessoa experiente do time que irá acompanhar pessoalmente o progresso do novo colaborador, seja durante períodos específicos ou todo o processo de Onboarding. Idealmente, deve ser uma figura exemplar no que tange tanto ao seu comprometimento com os valores essenciais da equipe quanto ao seu conhecimento do domínio e tecnologia aplicados no time.
 
 **Responsabilidades:**
 
 - Orientação Técnica:
   - Auxiliar no entendimento das ferramentas e tecnologias utilizadas pela equipe.
-- Acompanhamento Individualizado: 
+- Acompanhamento Individualizado:
   - Oferecer suporte contínuo ao novo colaborador, procurando entender assim como solucionar dificuldades enfrentadas por recém-chegados.
-- Sugestão ou atribuição de [incunbências](#incunbências):
+- Sugestão ou atribuição de [incumbências](#incumbências):
   - Como a pessoa que irá acompanhar de perto o progresso do novo integrante, o mentor estará mais apto a auxiliar na escolha de tarefas a serem repassadas a esses indivíduos.
-- Feedback Regular: 
+- Feedback Regular:
   - Fornecer feedback construtivo e orientar sobre o desempenho do novo colaborador.
-- Facilitar a Integração do recém chegado nos círculos sociais da equipe: 
+- Facilitar a Integração do recém chegado nos círculos sociais da equipe:
   - Ser a ponte entre o novo membro e a equipe, facilitando a construção de relações interpessoais.
 
 ### Parceiro
 
-Todo membro do time pode ser considerado um parceiro, sendo que a função deste papel é prover suporte secundário à pessoas sendo submetidas ao processo de Onboarding. Elas podem ou não ter responsabilidades semelhantes à de mentores, mas sua incunbência e tempo de dedicação direta para com recém-chegados é sempre limitado. Apesar de serem figuras de apoio, dando auxílio momentâneo quando necessário, elas têm papel importante em atividades que envolvem aprendizado entre pares.
+Todo membro do time pode ser considerado um parceiro, sendo que a função deste papel é prover suporte secundário à pessoa sendo submetida ao processo de Onboarding. Elas podem ou não ter responsabilidades semelhantes à de mentores, mas sua incunbência e tempo de dedicação direta para com recém-chegados é sempre limitado. Apesar de serem figuras de apoio, dando auxílio momentâneo quando necessário, elas têm papel importante em atividades que envolvem aprendizado entre pares.
 
 **Responsabilidades:**
 
-- Apoio de curto prazo: 
+- Apoio de curto prazo:
   - Fornecer suporte em períodos curtos e específicos, ajudando o novo colaborador a resolver dúvidas imediatas e problemas pontuais.
-- Treinamento específico: 
+- Treinamento específico:
   - Conduzir sessões de treinamento. Exemplo: workshops focados nas tecnologias e processos específicos do domínio em que o time atua.
 
 ### Gerenciamento de expectativa
@@ -406,16 +403,16 @@ Independente do papel exercido por membros do time que auxiliam no processo de O
 - **Comunicação:**
   - Qual etiqueta e/ou boas práticas de comunicação devem ser respeitadas.
   - Qual o nível de integração social desejado.
-  - Quais reuniões e dinâmicas de equipe são vistas como importantes, assim como grau esperado de participação nesses momentos. 
+  - Quais reuniões e dinâmicas de equipe são vistas como importantes, assim como grau esperado de participação nesses momentos.
 - **Hierarquia:**
-  - Estrutura hierárquica a ser respeitada (caso exista), assim como papel de cada figura envolvida.
+  - Estrutura hierárquica a ser respeitada (caso exista), assim como o papel de cada figura envolvida.
   - Quando problemas devem ser escalados e quais as linhas de comunicação propícias nesses casos.
  
-Após esse momento inicial, cabe aos atores envolvidos no processo de Onboarding transmitir essas informações no intuito de se reduzir o estresse comum ao contexto de incerteza e adequação ao novo em que recém-chegados se encontram. Estudos [[8]](#8)[[9]](#9) destacam que essa transparência é um fator relevante pare evitar equívocos comuns como os descritos abaixo:
+Após esse momento inicial, cabe aos atores envolvidos no processo de Onboarding transmitir essas informações no intuito de se reduzir o estresse comum ao contexto de incerteza e adequação ao novo em que recém-chegados se encontram. Estudos [[8]](#8)[[9]](#9) destacam que essa transparência é um fator relevante para evitar equívocos comuns como os descritos abaixo:
 - “Devo fazer tudo sozinho para que meu gerente tenha uma boa impressão de mim.”
 - “Devo ser a pessoa que resolve qualquer bug/demanda que encontrar. Além disso, eu devo começar a resolvê-lo imediatamente, mesmo que não tenha tempo para isso.”
 
-Transparência quanto à expectativas ameniza incertezas e estresse à medida que auxilia na compreensão do que se é esperados. Dentre as diferentes formas de repasse de expectativas a serem praticadas, tem-se:
+Transparência quanto às expectativas ameniza incertezas e estresse à medida que auxilia na compreensão do que se é esperado. Dentre as diferentes formas de repasse de expectativas a serem praticadas, tem-se:
 
 - Discussões abertas em momentos propícios (reuniões "one on one").
 - Revisões periódicas do progresso da pessoa sendo introduzida à organização.
@@ -425,9 +422,9 @@ Tais práticas geram transparência e comunicação clara de forma a estabelecer
 
 ## Capítulo 4: Execução
 
-Neste capítulo são expotas diretrizes e objetivos almejados pela socialização organizacional proposta no **Launchpad**. Sua execução está separada em três momentos, os quais têm relação direta com as ["Dimensões do Onboarding"](#dimensões-do-onboarding) expostas no capítulo 1:
+Neste capítulo são expostas diretrizes e objetivos almejados pela socialização organizacional proposta no **Launchpad**. Sua execução está separada em três momentos, os quais têm relação direta com as ["Dimensões do Onboarding"](#dimensões-do-onboarding) expostas no capítulo 1:
 - [Integração](#integração-1)
-- [Imersão no domínio e tencologia](#imersão-no-domínio-e-tecnologia)
+- [Imersão no domínio e tecnologia](#imersão-no-domínio-e-tecnologia)
 - [Cultura](#cultura-1)
 
 ### **Integração**
@@ -477,9 +474,10 @@ A maior unidade de tempo utilizada no **Launchpad** são semanas e encoraja-se q
 
 Outro ponto a se ter em mente ao planejar atividades é a necessidade de variação. É tentador realizar, principalmente nos períodos iniciais de Onboarding, a exposição exaustiva de informações acerca do projeto, desde seus padrões técnicos a regras de negócio. No entanto, abordagens passo a passo tendem a ser mais efetivas do ponto de vista de aprendizado e motivação, principalmente quando se intercala teoria e prática. Para facilitar o ato de planejar atividades variadas, o **Launchpad** sugere o uso de um [banco de tarefas](#banco-de-tarefas), cujas atividades podem ser separadas nas seguintes categorias.
 
-#### Incunbências
+#### Incumbências
 
-Primeira categoria de atividades a serem realizadas na fase de imersão na tecnologia e domínio, as incunbências são tarefas que devem, ao final de sua realização, gerar algum tipo de resultado tangível - documentação; funcionalidade; refinamento; etc. Incunbências têm caráter variado, podendo incluir atividades teóricas como a leitura de [documentos técnicos](#documentação-técnica) e suíte de testes, além de práticas como a correção de bugs mapeados e refatoração de sessões do código.
+Primeira categoria de atividades a serem realizadas na fase de imersão na tecnologia e domínio, as incumbências são tarefas que devem, ao final de sua realização, gerar algum tipo de resultado tangível - documentação; funcionalidade; refinamento; etc. Incumbências têm caráter variado, podendo incluir atividades teóricas como a leitura de [documentos técnicos](#documentação-técnica) e suíte de testes, além de práticas como a correção de bugs mapeados e refatoração de sessões do código.
+
 
 #### Aprendizagem entre pares
 
@@ -504,7 +502,7 @@ Quarta e última categoria, atividades paralelas têm triplo intuito - a presta�
 
 Como atividades paralelas estão relacionadas a acompanhamento, idealmente devem acontecer de forma periódica (ex: uma vez a cada semana ou a cada duas semanas) e interferir o menos possível com as demais atividades a serem realizadas pelo orientando. Ademais, por simplicidade, pode-se definir que um planejamento de tarefas está variado caso inclua, a cada semana, ao menos duas categorias distintas entre as supracitadas.
 
-Nas fases iniciais do Onboarding, espera-se que a categoria de atividades realizadas pelo novo colaborador esteja focada na aprendizagem entre pares, com entregas esporádicas de incunbências. Com o acréscimo de conforto, confiança e conhecimento do projeto e suas peculiaridades, é comum que atividades de aprendizagem entre pares ocorram com menor frequência e incunbências sejam entregues com agilidade. Assim, abra-se caminho para tarefas mais envolvidas como entregas ponta a ponta, as quais tendem a demandar mais do colaborador uma vez que necessitam de um conhecimento holístico das tecnologias empregadas e do domínio específico à aplicação do time. Ao final do processo, é esperado que a pessoa esteja integrada e capaz de realizar, com consistência e menos suporte, entregas dessa natureza.
+Nas fases iniciais do Onboarding, espera-se que a categoria de atividades realizadas pelo novo colaborador esteja focada na aprendizagem entre pares, com entregas esporádicas de incumbências. Com o acréscimo de conforto, confiança e conhecimento do projeto e suas peculiaridades, é comum que atividades de aprendizagem entre pares ocorram com menor frequência e incumbências sejam entregues com agilidade. Assim, abre-se caminho para tarefas mais envolvidas como entregas ponta a ponta, as quais tendem a demandar mais do colaborador uma vez que necessitam de um conhecimento holístico das tecnologias empregadas e do domínio específico à aplicação do time. Ao final do processo, é esperado que a pessoa esteja integrada e capaz de realizar, com consistência e menos suporte, entregas dessa natureza.
 
 ### **Cultura**
 - **Objetivos** - Coesão; propósito.
@@ -515,10 +513,10 @@ Como exposto no capítulo 2, [cultura](#cultura) é uma dimensão ampla expressa
 
 Para times especializados na manutenção e/ou desenvolvimento de software, pode-se resumir tais valores como atividades, processos e padrões comportamentais e técnicos (design; arquitetura; testes) verificados como importantes para o alcance dos objetivos da equipe. Cabe ao time como um todo a identificação dessas crenças. Apesar da [Fundamentação do Alicerce](#fundamentação) ser um ponto de partida para essa tarefa de identificação, ela é, necessariamente, uma construção coletiva e introspectiva. Desse modo, caso os valores essenciais de um time não estejam mapeados, recomenda-se a realização, com regularidade, de ritos de auto-avaliação com a inclusão de novos-colaboradores. A título de exemplo:
 
-- **Retrospectiva**: reunião geralmente realizada ao final de ciclos de entrega, onde a equipe reflete sobre o que funcionou bem, o que não funcionou, e o que pode ser melhorado. Ao se discutir abertamente esses tópicos o time pode identificar padrões comportamentais e técnicos que contribuíram para o sucesso, mapeando-os como valores essenciais.
+- **Retrospectiva:** Reunião geralmente realizada ao final de ciclos de entrega, onde a equipe reflete sobre o que funcionou bem, o que não funcionou, e o que pode ser melhorado. Ao se discutir abertamente esses tópicos o time pode identificar padrões comportamentais e técnicos que contribuíram para o sucesso, mapeando-os como valores essenciais.
 - **Reuniões de revisão de técnica** são momentos em que o time discute e avalia as decisões arquiteturais e tecnológicas do sistema. Elas podem envolver a análise de diagramas de arquitetura, revisão de princípios arquiteturais e discussão de novas propostas ou até mesmo a revisão conjunta do código implementado por colegas.
 
-A partir do momento em que as crenças essenciais do time forem registradas, faz-se necessário a criação de mecanismos para assegurar sua adesão e manutenção por novos membros da equipe. Tais mecanismos incluem mas não estão limitados a:
+A partir do momento em que as crenças essenciais do time são registradas, faz-se necessário a criação de mecanismos para assegurar sua adesão e manutenção por novos membros da equipe. Tais mecanismos incluem mas não estão limitados a:
 - **Diretrizes:** Documentos que estabelecem claramente as expectativas, padrões e melhores práticas a serem seguidas pela equipe. Estas diretrizes devem ser facilmente acessíveis e regularmente atualizadas para refletir as mudanças no projeto, tecnologias utilizadas e stakeholders. Diretrizes podem tomar o formato de, por exemplo, um treinamento que promova comunicação respeitosa e inclusiva ou até mesmo um manual de estilo de código que define padrões de codificação, práticas de revisão de código, e melhores práticas a serem seguidas na hora de se criar e manter testes.
 - **Automações:** Ferramentas e scripts que garantem que os padrões e práticas da equipe sejam seguidos automaticamente. Isso pode incluir práticas de DevOps, testes automatizados e verificações de conformidade e qualidade do código. A título de exemplo, cita-se pipeline de CI/CD configurado para executar testes automatizados e análise de qualidade de código a cada merge, garantindo que apenas código que atenda aos padrões de qualidade seja integrado ao projeto.
 
@@ -533,16 +531,16 @@ O **Launchpad** foi produzido tendo em mente que instituições que praticam o O
 São aquelas coletadas de forma semi-estruturada, envolvendo um maior grau de subjetividade entre os envolvidos no processo de socialização organizacional. São obtidas a partir do acompanhamento feito por mentores a seus orientandos, feedbacks do time e recém-chegado, além de documentos escritos como formulários. A partir desses artefatos, o time pode extrair informações que são indicativos de um processo de Onboarding bem sucedido [[11]](#11):
 
 - **Auto-eficácia:** Grau com que novos colaboradores se sentem confiantes e confortáveis em exercer suas funções. Este fator está relacionado:
-- **Clareza de função:** representa quão bem os novos funcionários entendem
-sua função e expectativas relacionadas à seu trabalho.
-- **Integração social:** representa até que ponto os novos funcionários se sentem socialmente confortáveis e aceitos pelos seus colegas de trabalho.
-- **Conhecimento da cultura:** está relacionada ao entendimento da cultura exclusiva ao time - suas políticas, objetivos estratégicos, crenças fundamentais e valor do serviço ou produtos entregues às partes interessadas.
+- **Clareza de função:** Representa quão bem os novos funcionários entendem
+sua função e expectativas relacionadas ao seu trabalho.
+- **Integração social:** Representa até que ponto os novos funcionários se sentem socialmente confortáveis e aceitos pelos seus colegas de trabalho.
+- **Conhecimento da cultura:** Está relacionada ao entendimento da cultura exclusiva ao time - suas políticas, objetivos estratégicos, crenças fundamentais e valor do serviço ou produtos entregues às partes interessadas.
 
 Essas métricas estão relacionadas a fatores como satisfação e motivação, grau de comprometimento com o time e seus objetivos, potencialização do desempenho individual do novo funcionário, assim como menores taxas de rotatividade.
 
 ### Métricas quantitativas
 
-São aquelas coletadas de forma estruturada, seja periodicamente com a participação de input humano ou automaticamente por ferramentas, como resultado do trabalho feito pela pessoa sendo submetida ao processo de Onboarding. Possíveis métricas dessa categoria irão variar em importância devido à grande diferença de demandas e anseios de cada time.
+São aquelas coletadas de forma estruturada, seja periodicamente com a participação de input humano ou automaticamente por ferramentas, como resultado do trabalho feito pela pessoa sendo submetida ao processo de Onboarding. Possíveis métricas desta categoria irão variar em importância devido à grande diferença de demandas e anseios de cada time.
 
 ### Avaliação e Reiteração
 - Reiteração do processo com base em avaliações e feedback
@@ -552,19 +550,19 @@ São aquelas coletadas de forma estruturada, seja periodicamente com a participa
 
 ## Referências
 
-- #### [1] 
+- #### [1]
   - Steven G Westlund and John C Hannon. Retaining talent: Assessing job satisfaction facets most significantly related to software developer turnover intentions. Journal of Information Technology Management, 19(4):1–15, 2008.
-- #### [2] 
+- #### [2]
   - Julian M Bass, Sarah Beecham, Mohammed Abdur Razzak, and John Noll. Employee retention and turnover in global software development: Comparing inhouse offshoring and offshore outsourcing. In Proceedings of the 13th International Conference on Global Software Engineering, pages 82–91, 2018.
-- #### [3] 
+- #### [3]
   - Gaurav G Sharma and Klaas-Jan Stol. Exploring onboarding success, organizational fit, and turnover intention of software professionals. Journal of Systems and Software, 159:110442, 2020.
 - #### [4]
   - Abdel-Hamid, Tarek K. "A study of staff turnover, acquisition, and assimilation and their impact on software development cost and schedule." Journal of Management Information Systems 6.1 (1989): 21-40.
-- #### [5] 
+- #### [5]
   - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
 - #### [6]
   -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
-- #### [7] 
+- #### [7]
   - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
 - #### [8]
   - M Ronald Buckley, Donald B Fedor, John G Veres, Danielle S Wiese, and
