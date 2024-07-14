@@ -509,9 +509,18 @@ Nas fases iniciais do Onboarding, espera-se que a categoria de atividades realiz
 - **Principais atores** - Todo o time.
 - **Timing** - Executada durante todo o processo, sendo uma dimensão transversal às demais.
 
-Mecanismos para promover a cultura desejada e manter a cultura desejada.
+Como exposto no capítulo 2, [cultura](#cultura) é uma dimensão ampla expressada principalmente pelos valores ou crenças essenciais obtidas a partir da experiência conjunta do grupo. O Onboarding deve ser utilizado como oportunidade tanto para manter quanto para transmitir esses valores de uma forma mais tangível, através de exemplos, histórias, processos e interações com os membros da equipe. Dessa forma, cultura é uma fase transversal, devendo ser exercida continuamente nas fases de integração e imersão no domínio e tecnologia.
 
-Mapear os diferentes tipos de conflitos de interesse levantados na Monografia I. Tentar encontrar formas de solucioná-los.
+Para times especializados na manutenção e/ou desenvolvimento de software, pode-se resumir tais valores como atividades, processos e padrões comportamentais e técnicos (design; arquitetura; testes) verificados como importantes para o alcance dos objetivos da equipe. Cabe ao time como um todo a identificação dessas crenças. Apesar da [Fundamentação do Alicerce](#fundamentação) ser um ponto de partida para essa tarefa de identificação, ela é, necessariamente, uma construção coletiva e introspectiva. Desse modo, caso os valores essenciais de um time não estejam mapeados, recomenda-se a realização, com regularidade, de ritos de auto-avaliação com a inclusão de novos-colaboradores. A título de exemplo:
+
+- **Retrospectiva**: reunião geralmente realizada ao final de ciclos de entrega, onde a equipe reflete sobre o que funcionou bem, o que não funcionou, e o que pode ser melhorado. Ao se discutir abertamente esses tópicos o time pode identificar padrões comportamentais e técnicos que contribuíram para o sucesso, mapeando-os como valores essenciais.
+- **Reuniões de revisão de técnica** são momentos em que o time discute e avalia as decisões arquiteturais e tecnológicas do sistema. Elas podem envolver a análise de diagramas de arquitetura, revisão de princípios arquiteturais e discussão de novas propostas ou até mesmo a revisão conjunta do código implementado por colegas.
+
+A partir do momento em que as crenças essenciais do time forem registradas, faz-se necessário a criação de mecanismos para assegurar sua adesão e manutenção por novos membros da equipe. Tais mecanismos incluem mas não estão limitados a:
+- **Diretrizes:** Documentos que estabelecem claramente as expectativas, padrões e melhores práticas a serem seguidas pela equipe. Estas diretrizes devem ser facilmente acessíveis e regularmente atualizadas para refletir as mudanças no projeto, tecnologias utilizadas e stakeholders. Diretrizes podem tomar o formato de, por exemplo, um treinamento que promova comunicação respeitosa e inclusiva ou até mesmo um manual de estilo de código que define padrões de codificação, práticas de revisão de código, e melhores práticas a serem seguidas na hora de se criar e manter testes.
+- **Automações:** Ferramentas e scripts que garantem que os padrões e práticas da equipe sejam seguidos automaticamente. Isso pode incluir práticas de DevOps, testes automatizados e verificações de conformidade e qualidade do código. A título de exemplo, cita-se pipeline de CI/CD configurado para executar testes automatizados e análise de qualidade de código a cada merge, garantindo que apenas código que atenda aos padrões de qualidade seja integrado ao projeto.
+
+Os atores envolvidos no processo de Onboarding devem ser os principais proponentes da cultura inerente ao time, expressando-as e reforçando-as aos novos colaboradores durante seu acompanhamento, seja no contexto individual ou coletivo. É desejado que, ao final do processo, a pessoa recém integrada tenha ciência e pratique os valores essenciais do time, sabendo inclusive os mecanismos implementados para garantir sua aplicação e preservação.
 
 ## Capítulo 5: Iteração e Melhoria Contínua
 
