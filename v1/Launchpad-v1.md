@@ -34,7 +34,9 @@
       - [Progresso desejado](#progresso-desejado)
     - [**Cultura**](#cultura-1)
   - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
-    - [Avaliação e Feedback](#avaliação-e-feedback)
+    - [Métricas qualitativas](#métricas-qualitativas)
+    - [Métricas quantitativas](#métricas-quantitativas)
+    - [Avaliação e Reiteração](#avaliação-e-reiteração)
   - [Conclusão](#conclusão)
   - [Referências](#referências)
 
@@ -135,7 +137,7 @@ Enquanto a dimensão anterior foca no negócio e nos impactos que a aplicação 
 
 #### **Diagrama das Dimensões:**
 
-![alt text](./imagens/diagrama-esboço.png)
+![alt text](./imagens/diagrama-das-dimensões.png)
 
 ## Capítulo 2: Estabelecendo o Alicerce
 
@@ -524,7 +526,25 @@ Os atores envolvidos no processo de Onboarding devem ser os principais proponent
 
 ## Capítulo 5: Iteração e Melhoria Contínua
 
-### Avaliação e Feedback
+O **Launchpad** foi produzido tendo em mente que instituições que praticam o Onboarding Institucionalizado tendem a obter maior sucesso [[10]](#10). Essa categoria de socialização organizacional são programas estruturados onde recém-chegados recebem orientação e mentoria formal do grupo em que estão sendo inseridos. Como todo processo, o Onboarding proposto neste guia deve ser avaliado e ajustado periodicamente para garantir sua efetividade. A avaliação de sua eficácia pode ser feita através de diferentes métricas, tanto qualitativas como quantitativas.
+
+### Métricas qualitativas
+
+São aquelas coletadas de forma semi-estruturada, envolvendo um maior grau de subjetividade entre os envolvidos no processo de socialização organizacional. São obtidas a partir do acompanhamento feito por mentores a seus orientandos, feedbacks do time e recém-chegado, além de documentos escritos como formulários. A partir desses artefatos, o time pode extrair informações que são indicativos de um processo de Onboarding bem sucedido [[11]](#11):
+
+- **Auto-eficácia:** Grau com que novos colaboradores se sentem confiantes e confortáveis em exercer suas funções. Este fator está relacionado:
+- **Clareza de função:** representa quão bem os novos funcionários entendem
+sua função e expectativas relacionadas à seu trabalho.
+- **Integração social:** representa até que ponto os novos funcionários se sentem socialmente confortáveis e aceitos pelos seus colegas de trabalho.
+- **Conhecimento da cultura:** está relacionada ao entendimento da cultura exclusiva ao time - suas políticas, objetivos estratégicos, crenças fundamentais e valor do serviço ou produtos entregues às partes interessadas.
+
+Essas métricas estão relacionadas a fatores como satisfação e motivação, grau de comprometimento com o time e seus objetivos, potencialização do desempenho individual do novo funcionário, assim como menores taxas de rotatividade.
+
+### Métricas quantitativas
+
+São aquelas coletadas de forma estruturada, seja periodicamente com a participação de input humano ou automaticamente por ferramentas, como resultado do trabalho feito pela pessoa sendo submetida ao processo de Onboarding. Possíveis métricas dessa categoria irão variar em importância devido à grande diferença de demandas e anseios de cada time.
+
+### Avaliação e Reiteração
 - Reiteração do processo com base em avaliações e feedback
 
 ## Conclusão
@@ -552,4 +572,8 @@ Os atores envolvidos no processo de Onboarding devem ser os principais proponent
 - #### [9]
   -  Andrew Begel and Beth Simon. Struggles of new college graduates in their first
   software development job. In Proceedings of the 39th SIGCSE technical symposium on  Computer science education, pages 226–230, 2008.
+- #### [10]
+  - Talya N Bauer, Todd Bodner, Berrin Erdogan, Donald M Truxillo, and Jennifer S Tucker. Newcomer adjustment during organizational socialization: a metaanalytic review of antecedents, outcomes, and methods. Journal of applied psychology, 92(3):707, 2007.
+- #### [11]
+  - Talya N Bauer. Maximizing success. SHRM Foundation’s Effective practice guidelines series, 2010.
 - [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
