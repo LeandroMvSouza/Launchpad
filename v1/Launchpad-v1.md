@@ -25,14 +25,14 @@
     - [Parceiro](#parceiro)
     - [Gerenciamento de expectativa](#gerenciamento-de-expectativa)
   - [Capítulo 4: Execução](#capítulo-4-execução)
-    - [**Integração**](#integração-1)
-    - [**Imersão no domínio e tecnologia**](#imersão-no-domínio-e-tecnologia)
-      - [Incumbências](#incumbências)
-      - [Aprendizagem entre pares](#aprendizagem-entre-pares)
-      - [Entrega de ponta a ponta](#entrega-de-ponta-a-ponta)
-      - [Atividades paralelas](#atividades-paralelas)
-      - [Progresso desejado](#progresso-desejado)
-    - [**Cultura**](#cultura-1)
+    - [Integração](#integração-1)
+    - [Imersão no domínio e tecnologia](#imersão-no-domínio-e-tecnologia)
+      - [**Incumbências**](#incumbências)
+      - [**Aprendizagem entre pares**](#aprendizagem-entre-pares)
+      - [**Entrega de ponta a ponta**](#entrega-de-ponta-a-ponta)
+      - [**Atividades paralelas**](#atividades-paralelas)
+      - [**Progresso desejado**](#progresso-desejado)
+    - [Cultura](#cultura-1)
   - [Capítulo 5: Iteração e Melhoria Contínua](#capítulo-5-iteração-e-melhoria-contínua)
     - [Métricas qualitativas](#métricas-qualitativas)
     - [Métricas quantitativas](#métricas-quantitativas)
@@ -427,7 +427,7 @@ Neste capítulo são expostas diretrizes e objetivos almejados pela socializaç�
 - [Imersão no domínio e tecnologia](#imersão-no-domínio-e-tecnologia)
 - [Cultura](#cultura-1)
 
-### **Integração**
+### Integração
 
 - **Objetivos** - Retenção; valorização; acolhimento.
 - **Principal ator** - [Anfitrião de integração](#anfitrião-de-integração).
@@ -460,7 +460,7 @@ Quanto a etapas desta fase, recomenda-se:
 
 Paralelo à execução dessas etapas, cabe ao anfitrião organizar a integração do recém-chegado nos processos internos. Ele deve, por exemplo, incluir a recente admissão no calendário de ritos e reuniões; garantir/requisitar acessos a softwares e hardwares necessários; manter atualizado o mapa de dependências; etc.
 
-### **Imersão no domínio e tecnologia**
+### Imersão no domínio e tecnologia
 
 - **Objetivos** - Eficácia; redução do tempo para produtividade; engajamento.
 - **Principais atores** - [Mentor](#mentor) e [Parceiro](#parceiro)
@@ -474,16 +474,16 @@ A maior unidade de tempo utilizada no **Launchpad** são semanas e encoraja-se q
 
 Outro ponto a se ter em mente ao planejar atividades é a necessidade de variação. É tentador realizar, principalmente nos períodos iniciais de Onboarding, a exposição exaustiva de informações acerca do projeto, desde seus padrões técnicos a regras de negócio. No entanto, abordagens passo a passo tendem a ser mais efetivas do ponto de vista de aprendizado e motivação, principalmente quando se intercala teoria e prática. Para facilitar o ato de planejar atividades variadas, o **Launchpad** sugere o uso de um [banco de tarefas](#banco-de-tarefas), cujas atividades podem ser separadas nas seguintes categorias.
 
-#### Incumbências
+#### **Incumbências**
 
 Primeira categoria de atividades a serem realizadas na fase de imersão na tecnologia e domínio, as incumbências são tarefas que devem, ao final de sua realização, gerar algum tipo de resultado tangível - documentação; funcionalidade; refinamento; etc. Incumbências têm caráter variado, podendo incluir atividades teóricas como a leitura de [documentos técnicos](#documentação-técnica) e suíte de testes, além de práticas como a correção de bugs mapeados e refatoração de sessões do código.
 
 
-#### Aprendizagem entre pares
+#### **Aprendizagem entre pares**
 
 Segunda categoria de atividades, essas tarefas focam na colaboração e aprendizado direto com o mentor e parceiros. O intuito é promover uma troca de conhecimento constante entre os envolvidos, além de introduzir o novo colaborador às pessoas com quem irá trabalhar. O processo de Onboarding é uma atividade necessariamente humana e, para que seja bem sucedida, necessita de interação entre atores e recrutas. Assim,recomenda-se que esses indivíduos sejam encorajados a levantar perguntas sempre que necessário. O diálogo deve acontecer de forma aberta seja em canais de discussão internos, ritos, treinamentos ou reuniões 1:1. Idealmente, ao final do processo de Onboarding o colaborador deve ter interagido e aprendido com todos os membros da equipe.
 
-#### Entrega de ponta a ponta
+#### **Entrega de ponta a ponta**
 
 Terceira categoria de atividades, entregas ponta a ponta são, necessariamente, tarefas práticas. Elas envolvem a resolução de demandas do time do início até a liberação em produção, incluindo ou não o suporte de parceiros e mentor. Dessa forma, variáveis relacionadas a entregas ponta a ponta são um indicativo relevante em relação ao nível de imersão na tecnologia e domínio de uma pessoa sendo submetida ao processo de Onboarding. Dentre essas variáveis temos:
 - Nível de suporte requisitado de pares
@@ -494,17 +494,17 @@ Terceira categoria de atividades, entregas ponta a ponta são, necessariamente, 
   - Regressões causadas pela entrega (caso ocorram)
   - Feedback do cliente ou usuário final
 
-#### Atividades paralelas
+#### **Atividades paralelas**
 
 Quarta e última categoria, atividades paralelas têm triplo intuito - a prestação de apoio, acompanhamento do progresso e promoção de segurança psicológica ao recém-chegado. O principal exemplo são reuniões 1:1 entre mentor e orientando, onde deve ser praticado o feedback contínuo, construtivo e propositivo. Cabe ao mentor identificar pontos fortes do orientando e sugerir melhorias onde necessário. O mentor também pode ajudar o orientando a identificar áreas de desenvolvimento dentro do projeto e seus recursos, propondo, por exemplo, treinamentos, recomendação de cursos, livros, ou a participação em projetos específicos que ofereçam aprendizado relevante.
 
-#### Progresso desejado
+#### **Progresso desejado**
 
 Como atividades paralelas estão relacionadas a acompanhamento, idealmente devem acontecer de forma periódica (ex: uma vez a cada semana ou a cada duas semanas) e interferir o menos possível com as demais atividades a serem realizadas pelo orientando. Ademais, por simplicidade, pode-se definir que um planejamento de tarefas está variado caso inclua, a cada semana, ao menos duas categorias distintas entre as supracitadas.
 
 Nas fases iniciais do Onboarding, espera-se que a categoria de atividades realizadas pelo novo colaborador esteja focada na aprendizagem entre pares, com entregas esporádicas de incumbências. Com o acréscimo de conforto, confiança e conhecimento do projeto e suas peculiaridades, é comum que atividades de aprendizagem entre pares ocorram com menor frequência e incumbências sejam entregues com agilidade. Assim, abre-se caminho para tarefas mais envolvidas como entregas ponta a ponta, as quais tendem a demandar mais do colaborador uma vez que necessitam de um conhecimento holístico das tecnologias empregadas e do domínio específico à aplicação do time. Ao final do processo, é esperado que a pessoa esteja integrada e capaz de realizar, com consistência e menos suporte, entregas dessa natureza.
 
-### **Cultura**
+### Cultura
 - **Objetivos** - Coesão; propósito.
 - **Principais atores** - Todo o time.
 - **Timing** - Executada durante todo o processo, sendo uma dimensão transversal às demais.
@@ -530,20 +530,68 @@ O **Launchpad** foi produzido tendo em mente que instituições que praticam o O
 
 São aquelas coletadas de forma semi-estruturada, envolvendo um maior grau de subjetividade entre os envolvidos no processo de socialização organizacional. São obtidas a partir do acompanhamento feito por mentores a seus orientandos, feedbacks do time e recém-chegado, além de documentos escritos como formulários. A partir desses artefatos, o time pode extrair informações que são indicativos de um processo de Onboarding bem sucedido [[11]](#11):
 
-- **Auto-eficácia:** Grau com que novos colaboradores se sentem confiantes e confortáveis em exercer suas funções. Este fator está relacionado:
+- **Auto-eficácia:** Grau com que novos colaboradores se sentem confiantes e confortáveis em exercer suas funções.
 - **Clareza de função:** Representa quão bem os novos funcionários entendem
 sua função e expectativas relacionadas ao seu trabalho.
 - **Integração social:** Representa até que ponto os novos funcionários se sentem socialmente confortáveis e aceitos pelos seus colegas de trabalho.
-- **Conhecimento da cultura:** Está relacionada ao entendimento da cultura exclusiva ao time - suas políticas, objetivos estratégicos, crenças fundamentais e valor do serviço ou produtos entregues às partes interessadas.
+- **Conhecimento e prática da cultura:** Está relacionada ao entendimento da cultura exclusiva ao time - suas políticas, objetivos estratégicos, crenças fundamentais e valor do serviço ou produtos entregues às partes interessadas.
 
 Essas métricas estão relacionadas a fatores como satisfação e motivação, grau de comprometimento com o time e seus objetivos, potencialização do desempenho individual do novo funcionário, assim como menores taxas de rotatividade.
 
 ### Métricas quantitativas
 
-São aquelas coletadas de forma estruturada, seja periodicamente com a participação de input humano ou automaticamente por ferramentas, como resultado do trabalho feito pela pessoa sendo submetida ao processo de Onboarding. Possíveis métricas desta categoria irão variar em importância devido à grande diferença de demandas e anseios de cada time.
+São aquelas coletadas de forma estruturada, seja periodicamente com a participação de input humano ou automaticamente por ferramentas, como resultado do trabalho feito pela pessoa sendo submetida ao processo de Onboarding. Possíveis métricas desta categoria irão variar em importância devido à grande diferença de demandas e anseios de cada time. Recomenda-se que as métricas quantitativas estejam ligadas, principalmente, à [entregas ponta a ponta](#entrega-de-ponta-a-ponta), já que essa categoria de atividades é indicativa do conhecimento do novo colaborador acerca do domínio, processos e tecnologias intrínsecas ao projeto. Dentre os possíveis dados a serem coletados, destaca-se:
+- **Métricas baseadas em commit:** Podem ser usadas para avaliar o nível de proficiência alcançado pelo colaborador e para medir o grau de conhecimento baseado na autoria e no interesse em partes específicas do projeto. Exemplos incluem:
+  - Número e/ou frequência de commits.
+  - Natureza dos commits (por exemplo: resolução de bugs, refatoração, features, automações).
+- **Volume de entrega:** a taxa na qual os novos desenvolvedores fazem contribuições para o projeto ao longo do período de Onboarding. A mediação envolve o rastreamento da frequência e do volume de contribuições, as quais podem ser auferidas a partir de:
+  - commits
+  - comentários em revisão de código
+  - criação ou manutenção de documentação do projeto
+- **Nível de complexidade atrelado à tarefa:** como exposto anteriormente, é desejável que atividades, sejam elas mapeadas no [banco de tarefas](#banco-de-tarefas) ou não, tenham uma numeração que indique seu nível de complexidade.
+
+Pesos podem ser associados a cada tipo de dado, de forma a diferenciar sua relevância para o projeto. Um time de desenvolvimento focado em inovação e entrega rápida de novas funcionalidades pode dar mais ênfase à velocidade da entrega e à complexidade técnica das tarefas realizadas. Em contrapartida, um time dedicado à manutenção de sistemas críticos pode focar mais na qualidade dos commits, regressões causadas pela entrega, e participação em revisões de código.
 
 ### Avaliação e Reiteração
-- Reiteração do processo com base em avaliações e feedback
+Reiterar com base em dados, avaliações e feedback é fundamental para garantir que o Onboarding continue eficaz e alinhado com os objetivos do time. Este é o momento de observar o progresso final do novo membro, identificar possíveis dificuldades e coletar insights a partir das métricas disponíveis, no intuito de aprimorar o processo.
+
+Após avaliação chega a etapa crucial de transformar insights em ações a serem aplicadas no próximo ciclo:
+1. Atualize o plano de onboarding com base nas informações obtidas. Ajuste itens como o conteúdo, a duração das atividades, as ferramentas e a forma como o conhecimento é compartilhado. Tente tornar seu Onboarding o mais especializado possível para o contexto do time e, novamente, seguindo o princípio de **enfatizar aquilo que é necessário**.
+2. Defina ações específicas para resolver as dificuldades e desafios encontrados. Se possível, procure separar as ações de acordo com as [dimensões do Onboarding](#dimensões-do-onboarding) e suas respectivas [fases de execução](#capítulo-4-execução). Isso auxilia em definir escopo e atores responsáveis em executar as ações levantadas.
+
+Exemplos práticos incluem:
+  
+<hr/>
+
+- Insight:
+  - A [auto-eficácia](#métricas-qualitativas) neste ciclo não foi satisfatória. Novos colaboradores têm dificuldades de aprender e utilizar as tecnologias empregadas no projeto.
+- Ações:
+  - Imersão no Domínio e Tecnologia:
+    - Definir um plano de treinamento específico para essa tecnologia, com [incumbências](#incumbências) periódicas a serem entregues ao longo do Onboarding.
+    - Promover novas atividades de [aprendizagem entre pares](#aprendizagem-entre-pares) ministradas por mentores ou parceiros, como "Codelabs" e "Workshops".
+    - Investigar e sugerir recursos internos ou externos à equipe para colaboradores que serão integrados no próximo ciclo.
+
+<hr/>
+
+- Insight:
+  - O [conhecimento e prática da cultura](#métricas-qualitativas) foi insuficiente. Novos membros estão tendo dificuldades em se integrar ao time, gerando menos adesão e aplicação dos valores essenciais inerentes à equipe.
+- Ações:
+  - Integração:
+    - Promover eventos de "team-building" com mais frequência, expressando a importância de membros atuais do time em interagir com recém-chegados.
+  - Cultura
+    - Criar canais de comunicação onde haverá interação aberta e sem protocolos entre novos e atuais membros do time.
+    - Incluir na avaliação de performance de mentores o desempenho positivo de seus orientandos como diferencial, de forma a incentivar um acompanhamento mais próximo.
+
+<hr/>
+
+- Insight:
+  - Neste ciclo, novos colaboradores fizeram um [número menor de entregas ponta a ponta](#métricas-quantitativas). O tempo até a realização do primeiro commit aumentou devido ao moroso processo de setup do ambiente e liberação de acessos. Além disso, verificou-se um aumento no nível de complexidade das tarefas entregues.
+- Ações:
+  - Integração:
+    - Tornar automatizado o processo de conceder permissões e acessos.
+    - Implementar ou aprimorar documentação base para setup do ambiente.
+  - Imersão no Domínio e Tecnologia:
+    - Revisar o [banco de tarefas](#banco-de-tarefas), garantindo que atividades complexas sejam quebradas em partes menores sempre que possível.
 
 ## Conclusão
 - Apanhado geral, considerações finais.
