@@ -43,14 +43,11 @@
 
 ## Introdução
 
-- O objetivo desta sessão será expor o propósito e motivação central do Guia.
-- Reiterar sobre a introdução ao final, consolidando a visão geral obtida.
-
 No mundo atual onde negócios estão cada vez mais digitalizados e falas como **“Toda empresa agora é uma empresa de software”** são cada vez mais aceitas, equipes de Desenvolvimento desempenham um papel vital e desafiador. Elas precisam - planejar, conceber, testar e disponibilizar novas formas de se resolver problemas reais através de Sistemas de Informação cada vez mais complexos. Essas equipes são pontes entre a visão e a realidade, esculpindo não somente o futuro da tecnologia que impulsiona nossa sociedade, como também criando e/ou modificando hábitos de pessoas.
 
-Para Dave Farley, co-autor do livro Continuous Delivery, desenvolvimento de software é um processo inerentemente criativo que requer alto grau de colaboração. Equipes formadas por profissionais de diferentes áreas trabalham arduamente na criação de partes menores do todo que formam um sistema ou produto. Elas assim o fazem trocando e integrando continuamente informações; código; documentação e experiências.
+Para Dave Farley, co-autor do livro Continuous Delivery, desenvolvimento de software é um processo inerentemente criativo que requer alto grau de colaboração [[1]](#1). Equipes formadas por profissionais de diferentes áreas trabalham arduamente na criação de partes menores do todo que formam um sistema ou produto. Elas assim o fazem trocando e integrando continuamente informações; código; documentação e experiências.
 
-Em cenários de substituição de pessoas, o qual é, infelizmente, comum ao contexto da criação e manutenção de software [[1]](#1)[[2]](#2)[[3]](#3), a perda de conhecimento e experiência de contribuidores antigos associada à necessidade de treinamento e inclusão de novos colaboradores, pode impactar significativamente o custo e a duração de um projeto. Segundo um estudo feito ainda em 1989 [[4]](#4), tais mudanças podem levar a acréscimos de 40% a até 60% no custo de desenvolvimento.
+Em cenários de substituição de pessoas, o qual é, infelizmente, comum ao contexto da criação e manutenção de software [[2]](#2)[[3]](#3)[[4]](#4), a perda de conhecimento e experiência de contribuidores antigos associada à necessidade de treinamento e inclusão de novos colaboradores, pode impactar significativamente o custo e a duração de um projeto. Segundo um estudo feito ainda em 1989 [[5]](#5), tais mudanças podem levar a acréscimos de 40% a até 60% no custo de desenvolvimento.
 
 Como então se adaptar a esses desafios de forma a estabelecer um processo que auxilia a reter talento humano?
 
@@ -93,7 +90,7 @@ No que tange a escopo e tempo, entre as dimensões do Onboarding propostas, Inte
 
 #### **Cultura:**
 
-Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[5]](#5). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupõe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[6]](#6).
+Cultura no contexto do Onboarding envolve a transmissão e execução de valores essenciais obtidos a partir da experiência conjunta de um grupo [[6]](#6). Através de uma história compartilhada e de um padrão consistente de liderança, tais valores foram validados como eficazes para o alcance dos objetivos de uma equipe. Uma cultura forte pressupõe a ampla prática e adesão desses valores como forma de gerar coesão e engajamento [[7]](#7).
 
 Como exemplo, suponha uma equipe de desenvolvimento de software focada num sistema bancário de transações. Nesse caso, é de extrema importância que se garanta a estabilidade e confiabilidade do sistema já que este:
 - lida com a integridade dos dados financeiros de seus clientes;
@@ -336,7 +333,7 @@ Artefato final do Alicerce, o banco de tarefas tem como objetivo prover os insum
   - Em projetos que fazem uso de testes, esses são um valioso mapa dos requisitos de negócio e problemas técnicos que o domínio da aplicação procura solucionar. Dessa forma, trabalhar na manutenção e criação de testes tende a oferecer uma visão abrangente das funcionalidades do sistema, auxiliando novos colaboradores a compreender o contexto em que estão sendo inseridos.
 - **Contribuições para a documentação do time:**
   - Fazer com que recém chegados sigam a documentação vigente e, caso necessário, proponham alterações, é uma ótima atividade a ser considerada. Ela não somente apresenta o novo membro aos processos disponíveis, como também auxilia na manutenção e melhoria da base de conhecimento do time.
-  - Em um caso de estudo realizado em 2010 na Google [[7]](#7), por exemplo, foi constatado que novos engenheiros de software são encorajados a contribuir com entradas no glossário oficial da organização, cujo objetivo é auxiliar funcionários a entender jargões e contextos típicos da empresa, como também no “Manual do Desenvolvedor Google”, o qual contém explicações e links para recursos especializados, como guias de estilo.
+  - Em um caso de estudo realizado em 2010 na Google [[8]](#8), por exemplo, foi constatado que novos engenheiros de software são encorajados a contribuir com entradas no glossário oficial da organização, cujo objetivo é auxiliar funcionários a entender jargões e contextos típicos da empresa, como também no “Manual do Desenvolvedor Google”, o qual contém explicações e links para recursos especializados, como guias de estilo.
 - **Aprendizagem entre pares:**
   - "Codelabs" : tutoriais práticos, ministrados por membros já estabelecidos no time, nos quais o aluno segue instruções passo a passo para a resolução de uma determinada tarefa comum ao contexto de atuação do time, utilizando para tal as tecnologias empregadas no projeto.
   - "Pair Programming" : diferente de "Codelabs", o "Pair programming" não é uma atividade pré-estruturada. Ela consiste no trabalho conjunto entre o recém-chegado e um desenvolvedor mais experiente na resolução de demandas. Isso não só ajuda no aprendizado de melhores práticas e padrões de codificação do projeto, mas também facilita a transferência de conhecimento tácito, promovendo maior integração na equipe.
@@ -408,7 +405,7 @@ Independente do papel exercido por membros do time que auxiliam no processo de O
   - Estrutura hierárquica a ser respeitada (caso exista), assim como o papel de cada figura envolvida.
   - Quando problemas devem ser escalados e quais as linhas de comunicação propícias nesses casos.
  
-Após esse momento inicial, cabe aos atores envolvidos no processo de Onboarding transmitir essas informações no intuito de se reduzir o estresse comum ao contexto de incerteza e adequação ao novo em que recém-chegados se encontram. Estudos [[8]](#8)[[9]](#9) destacam que essa transparência é um fator relevante para evitar equívocos comuns como os descritos abaixo:
+Após esse momento inicial, cabe aos atores envolvidos no processo de Onboarding transmitir essas informações no intuito de se reduzir o estresse comum ao contexto de incerteza e adequação ao novo em que recém-chegados se encontram. Estudos [[9]](#9)[[10]](#10) destacam que essa transparência é um fator relevante para evitar equívocos comuns como os descritos abaixo:
 - “Devo fazer tudo sozinho para que meu gerente tenha uma boa impressão de mim.”
 - “Devo ser a pessoa que resolve qualquer bug/demanda que encontrar. Além disso, eu devo começar a resolvê-lo imediatamente, mesmo que não tenha tempo para isso.”
 
@@ -524,11 +521,11 @@ Os atores envolvidos no processo de Onboarding devem ser os principais proponent
 
 ## Capítulo 5: Iteração e Melhoria Contínua
 
-O **Launchpad** foi produzido tendo em mente que instituições que praticam o Onboarding Institucionalizado tendem a obter maior sucesso [[10]](#10). Essa categoria de socialização organizacional são programas estruturados onde recém-chegados recebem orientação e mentoria formal do grupo em que estão sendo inseridos. Como todo processo, o Onboarding proposto neste guia deve ser avaliado e ajustado periodicamente para garantir sua efetividade. A avaliação de sua eficácia pode ser feita através de diferentes métricas, tanto qualitativas como quantitativas.
+O **Launchpad** foi produzido tendo em mente que instituições que praticam o Onboarding Institucionalizado tendem a obter maior sucesso [[11]](#11). Essa categoria de socialização organizacional são programas estruturados onde recém-chegados recebem orientação e mentoria formal do grupo em que estão sendo inseridos. Como todo processo, o Onboarding proposto neste guia deve ser avaliado e ajustado periodicamente para garantir sua efetividade. A avaliação de sua eficácia pode ser feita através de diferentes métricas, tanto qualitativas como quantitativas.
 
 ### Métricas qualitativas
 
-São aquelas coletadas de forma semi-estruturada, envolvendo um maior grau de subjetividade entre os envolvidos no processo de socialização organizacional. São obtidas a partir do acompanhamento feito por mentores a seus orientandos, feedbacks do time e recém-chegado, além de documentos escritos como formulários. A partir desses artefatos, o time pode extrair informações que são indicativos de um processo de Onboarding bem sucedido [[11]](#11):
+São aquelas coletadas de forma semi-estruturada, envolvendo um maior grau de subjetividade entre os envolvidos no processo de socialização organizacional. São obtidas a partir do acompanhamento feito por mentores a seus orientandos, feedbacks do time e recém-chegado, além de documentos escritos como formulários. A partir desses artefatos, o time pode extrair informações que são indicativos de um processo de Onboarding bem sucedido [[12]](#12):
 
 - **Auto-eficácia:** Grau com que novos colaboradores se sentem confiantes e confortáveis em exercer suas funções.
 - **Clareza de função:** Representa quão bem os novos funcionários entendem
@@ -594,32 +591,37 @@ Exemplos práticos incluem:
     - Revisar o [banco de tarefas](#banco-de-tarefas), garantindo que atividades complexas sejam quebradas em partes menores sempre que possível.
 
 ## Conclusão
-- Apanhado geral, considerações finais.
+
+O **Launchpad** foi desenvolvido como um guia cujo intuito é estabelecer diretrizes que auxiliem na melhoria ou estruturação de um processo de Onboarding que auxilie times a reterem talento humano. O trabalho de revisão da literatura científica que fundamentou este documento encontrou amplas evidências que processos de Onboarding bem estruturados e personalizados estão associados a níveis mais altos de satisfação, produtividade, engajamento e comprometimento dos funcionários, além de uma redução na taxa de rotatividade de empregados, especialmente a longo prazo.
+
+Reitera-se a hipótese inicial de que **primeiras impressões importam**. A chave para o sucesso do **Launchpad** reside na adaptação e personalização contínua do processo para atender às necessidades específicas de cada time e projeto. Combinando [documentação focada](#capítulo-2-estabelecendo-o-alicerce), [envolvimento dos atores e separação clara de responsabilidades](#capítulo-3-envolvimento-dos-atores) aliada à [compreensão do que configura Onboarding](#capítulo-1-compreendendo-onboarding), é possível [refinar e aprimorar](#capítulo-5-iteração-e-melhoria-contínua) cada [etapa do processo](#capítulo-4-execução), garantindo que ele continue a ser uma ferramenta valiosa para equipes focadas no desenvolvimento e manutenção de Sistemas de Informação.
 
 ## Referências
 
 - #### [1]
-  - Steven G Westlund and John C Hannon. Retaining talent: Assessing job satisfaction facets most significantly related to software developer turnover intentions. Journal of Information Technology Management, 19(4):1–15, 2008.
+  - Farley, Dave, and Jez Humble. Continuous delivery: a handbook for building, deploying, testing and releasing software. Addison-Wesley Professional, 2010.
 - #### [2]
-  - Julian M Bass, Sarah Beecham, Mohammed Abdur Razzak, and John Noll. Employee retention and turnover in global software development: Comparing inhouse offshoring and offshore outsourcing. In Proceedings of the 13th International Conference on Global Software Engineering, pages 82–91, 2018.
+  - Steven G Westlund and John C Hannon. Retaining talent: Assessing job satisfaction facets most significantly related to software developer turnover intentions. Journal of Information Technology Management, 19(4):1–15, 2008.
 - #### [3]
-  - Gaurav G Sharma and Klaas-Jan Stol. Exploring onboarding success, organizational fit, and turnover intention of software professionals. Journal of Systems and Software, 159:110442, 2020.
+  - Julian M Bass, Sarah Beecham, Mohammed Abdur Razzak, and John Noll. Employee retention and turnover in global software development: Comparing inhouse offshoring and offshore outsourcing. In Proceedings of the 13th International Conference on Global Software Engineering, pages 82–91, 2018.
 - #### [4]
-  - Abdel-Hamid, Tarek K. "A study of staff turnover, acquisition, and assimilation and their impact on software development cost and schedule." Journal of Management Information Systems 6.1 (1989): 21-40.
+  - Gaurav G Sharma and Klaas-Jan Stol. Exploring onboarding success, organizational fit, and turnover intention of software professionals. Journal of Systems and Software, 159:110442, 2020.
 - #### [5]
-  - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
+  - Abdel-Hamid, Tarek K. "A study of staff turnover, acquisition, and assimilation and their impact on software development cost and schedule." Journal of Management Information Systems 6.1 (1989): 21-40.
 - #### [6]
-  -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
+  - Schein, Edgar H. Organizational culture. Vol. 45. No. 2. American Psychological Association, 1990.
 - #### [7]
-  - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
+  -  Motta, Fernando C. Prestes, and Isabella F. Gouveia VASCONCELOS. "A cultura organizacional." MOTTA, Fernando C. Prestes. Teoria geral da administração 3.1 (2002): 1-22.
 - #### [8]
+  - Maggie Johnson and Max Senges. Learning to be a programmer in a complex organization: A case study on practice-based learning during the onboarding process at google. Journal of Workplace Learning, 22(3):180–194, 2010.
+- #### [9]
   - M Ronald Buckley, Donald B Fedor, John G Veres, Danielle S Wiese, and
   Shawn M Carraher. Investigating newcomer expectations and job-related outcomes. Journal of Applied Psychology, 83(3):452, 1998.
-- #### [9]
+- #### [10]
   -  Andrew Begel and Beth Simon. Struggles of new college graduates in their first
   software development job. In Proceedings of the 39th SIGCSE technical symposium on  Computer science education, pages 226–230, 2008.
-- #### [10]
-  - Talya N Bauer, Todd Bodner, Berrin Erdogan, Donald M Truxillo, and Jennifer S Tucker. Newcomer adjustment during organizational socialization: a metaanalytic review of antecedents, outcomes, and methods. Journal of applied psychology, 92(3):707, 2007.
 - #### [11]
+  - Talya N Bauer, Todd Bodner, Berrin Erdogan, Donald M Truxillo, and Jennifer S Tucker. Newcomer adjustment during organizational socialization: a metaanalytic review of antecedents, outcomes, and methods. Journal of applied psychology, 92(3):707, 2007.
+- #### [12]
   - Talya N Bauer. Maximizing success. SHRM Foundation’s Effective practice guidelines series, 2010.
 - [Slidesgo - Minimalist Grayscale Pitch Deck](https://slidesgo.com/theme/minimalist-grayscale-pitch-deck).
