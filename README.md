@@ -1,3 +1,3 @@
 # Launchpad
 
-Repositório para o armazenamento de arquivos de documentação que irão compor o `Launchpad`, um manual de Onboarding para desenvolvedores sendo criado como parte da disciplina **Monografia em Sistemas de Informação II**.
+Repositório para o armazenamento da documentação que compõe o [`Launchpad - Guia de Onboarding para Desenvolvedores`](https://github.com/LeandroMvSouza/Launchpad/blob/main/documento/Launchpad.md). Este trabalho está sendo criado como parte da disciplina **Monografia em Sistemas de Informação II**.
