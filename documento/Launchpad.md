@@ -178,7 +178,7 @@ O Mapa de Dependências tem como função detalhar as necessidades logísticas, 
 
 #### **Compliance**
 
-Conjunto de materiais e recursos destinados a assegurar que novos colaboradores compreendam e sigam as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta sessão. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
+Conjunto de materiais e recursos destinados a assegurar que novos colaboradores compreendam e sigam as políticas, regulamentações e normas da organização. Tais documentos podem tomar diversas formas, desde contratos formais a slides e organogramas. Vale ressaltar que nem todo time de desenvolvimento de software precisa, necessariamente, se preocupar em mapear os pontos levantados nesta seção. Isso pois, em alguns casos, a organização da qual o time faz parte é a responsável pelo mapeamento, execução e monitoramento de critérios de compliance. Esse conjunto de documentos, considerando o contexto de desenvolvimento, tem como pontos a serem considerados:
 
 - **Obrigações legais e contratuais**:
   - Código de conduta:
@@ -254,7 +254,7 @@ A título de exemplo, pense em uma equipe internacional focada na criação e ma
 
 ### Documentação Técnica
 
-Esta sessão do Alicerce tem como foco o desenvolvimento e/ou separação dos documentos técnicos relevantes ao contexto de uma pessoa sendo submetida ao processo de Onboarding. O grau de abrangência e granularidade dessa documentação depende principalmente de dois fatores:
+Esta seção do Alicerce tem como foco o desenvolvimento e/ou separação dos documentos técnicos relevantes ao contexto de uma pessoa sendo submetida ao processo de Onboarding. O grau de abrangência e granularidade dessa documentação depende principalmente de dois fatores:
 - Do contexto em que o time está inserido;
 - Das partes específicas do todo que compõem uma aplicação ou projeto nas quais um recém-contratado terá mais chances de atuar nas fases iniciais de sua atuação.
 
@@ -592,7 +592,7 @@ Exemplos práticos incluem:
 
 ## Conclusão
 
-O **Launchpad** foi desenvolvido como um guia cujo intuito é estabelecer diretrizes que auxiliem na melhoria ou estruturação de um processo de Onboarding que auxilie times a reterem talento humano. O trabalho de revisão da literatura científica que fundamentou este documento encontrou amplas evidências que processos de Onboarding bem estruturados e personalizados estão associados a níveis mais altos de satisfação, produtividade, engajamento e comprometimento dos funcionários, além de uma redução na taxa de rotatividade de empregados, especialmente a longo prazo.
+O **Launchpad** foi desenvolvido como um guia. Seu objetivo é definir diretrizes que ajudem na melhoria ou organização de um processo de Onboarding, visando auxiliar equipes na retenção de talento humano. O trabalho de revisão da literatura científica que fundamentou este documento encontrou amplas evidências que processos de socialização organizacional bem estruturados e personalizados estão associados a níveis mais altos de satisfação, produtividade, engajamento e comprometimento dos funcionários, além de uma redução na taxa de rotatividade de empregados, especialmente a longo prazo.
 
 Reitera-se a hipótese inicial de que **primeiras impressões importam**. A chave para o sucesso do **Launchpad** reside na adaptação e personalização contínua do processo para atender às necessidades específicas de cada time e projeto. Combinando [documentação focada](#capítulo-2-estabelecendo-o-alicerce), [envolvimento dos atores e separação clara de responsabilidades](#capítulo-3-envolvimento-dos-atores) aliada à [compreensão do que configura Onboarding](#capítulo-1-compreendendo-onboarding), é possível [refinar e aprimorar](#capítulo-5-iteração-e-melhoria-contínua) cada [etapa do processo](#capítulo-4-execução), garantindo que ele continue a ser uma ferramenta valiosa para equipes focadas no desenvolvimento e manutenção de Sistemas de Informação.
 
